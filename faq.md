@@ -1,0 +1,46 @@
+---
+description: Frequently asked questions and answers about Jet Protcol
+---
+
+# FAQ
+
+**What is Jet Protocol?**
+
+Jet Protocol is a decentralized and permissionless borrowing and lending protocol built on top of the Solana blockchain. 
+
+**Who is behind Jet Protocol?**
+
+Wil Barnes and James Moreau are the founders of Jet Protocol. Currently we are a team of over 12 individuals distributed across the globe consisting mostly of software developers. 
+
+**What blockchain is Jet Protocol built on?**
+
+The Solana blockchain is the platform which Jet Protocol is built on. 
+
+**Why did you build Jet Protocol on Solana?**
+
+There are a variety of reasons why we chose Solana for building Jet Protocol, the top being the excellent financial and community backing, the high speed and throughput capabilities of the network and the lack of sharding allowing for greater composability. 
+
+**Is Jet Protocol Permissionless?**
+
+Yes, Jet Protocol is totally permissionless to interact with. You do not need any human interaction to borrow or lend anywhere on the platform.  
+
+**Is Jet Protocol Audited?**
+
+Jet Protocol has undergone extensive code review by paid white-hats kindly provided by the Solana Foundation. We will have formal audits conducted after MVP on further iterations of Jet Protocol. 
+
+**How do I borrow assets?**  
+
+You can deposit collateral \(only SOL at launch but more to come\) and borrow stablecoins \(USDC and USDT to start but more to come as well\). As long as your collateral ratio stays healthy your debt position is safe. If your collateral value drops fast enough that you cannot deposit more to cover your position your collateral will be liquidated to cover your debt. 
+
+**How do I lend my asset to get interest?** 
+
+You deposit stablecoins \(USDC and USDT\) to the lending pool and will earn shared interest from your deposits. 
+
+**Are my deposited funds safe?**  
+
+While Jet Protocol is built by industry veterans and world-class financial systems developers, we are still in beta and you should not deposit more funds than you would be willing to lose. We make no guarantees of safety regarding the programs Jet Protocol is built on. 
+
+**When will you support \[any\] asset?**
+
+Jet Protocol will add new assets based on user demand and the selection criteria and decisions will ultimately be decided by the community and governance body of the protocol. 
+
