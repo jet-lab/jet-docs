@@ -4,7 +4,7 @@ description: Useful links for getting started with Jet Protocol and how to get s
 
 # Get Started
 
-Jet Protocol is a permissionless borrowing and lending protocol that enables easy borrowing of stablecoings against crypto collateral as well as the ability to earn interest in stablecoin deposits into the lending pool. 
+Jet Protocol is a permissionless borrowing and lending protocol that enables easy borrowing of stablecoins against crypto collateral as well as the ability to earn interest in stablecoin deposits into the lending pool. 
 
 Jet Protocol works with most popular browsers which have web 3 enabled wallet functionality including Chrome, Brave, Firefox and Edge. 
 
