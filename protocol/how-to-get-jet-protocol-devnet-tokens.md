@@ -13,7 +13,7 @@
 
 **1. Log into your** [**Phantom Wallet**](https://phantom.app/) **and connect to** [**devnet.jetprotocol.io**](https://devnet.jetprotocol.io/) ****
 
-**2. Click the Settings button on the bottom right corner** 
+**2. Click the Settings button in the bottom right corner** 
 
 ![](https://lh6.googleusercontent.com/PXAykXLwoFD19xrIddUZ01YbPgdlvEIriFIWJ6xrn2W2Olhck-uTVLLVQZzerHE9KuiIGFI6j285I-PA1F7Y4BWdzml4LNBUnsA6fIH-gPqSpoP-csDUggjvXWH1PGsbxnp4kWFn=s0)
 
