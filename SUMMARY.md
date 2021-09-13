@@ -12,7 +12,6 @@
   * [API](protocol/api.md)
   * [Serum DEX Integration](protocol/serum-dex-integration.md)
   * [Liquidity Mining](protocol/liquidity-mining.md)
-* [Deployment](deployment.md)
 * [Design Assets](design-assets.md)
 
 ## Support
