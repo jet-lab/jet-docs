@@ -3,12 +3,12 @@
 **Jet Protocol is happy to announce the launch of our platform on Devnet! 🥳**  
 
 
-**Testing on Devnet is useful when integrating into any platform for running liquidations, trading or market making without risking tokens with real monetary value. Jet Protocol invites our community to interact with our platform and its current reserves using our in-app airdrop mechanism explained in this guide.**   
+**Testing on Devnet is incredibly useful to developers and users when integrating into any platform for running liquidations, trading or market making without risking tokens with real monetary value. Jet Protocol invites our community to interact with our platform and its current reserves using our in-app airdrop mechanism explained in this guide.**   
 
 
-**Please note that these airdropped tokens do not have any monetary value and cannot be traded for anything. They are to be used for simulating the borrowing and lending functions on the platform to test for functionality. Your feedback whilst using the app on Devnet is highly appreciated and will help us improve the overall experience of our platform as we transition to Mainnet.** 
+**Please note that these airdropped tokens do not have any monetary value and cannot be traded for anything. They are to be used for simulating the borrowing and lending functions on the platform and to test for functionality.** 
 
-**Have fun!**  
+**Your feedback whilst using the app on Devnet is highly appreciated and will help us improve the overall experience of our platform as we transition to Mainnet. Have fun!**  
 
 
 **1. Log into your** [**Phantom Wallet**](https://phantom.app/) **and connect to** [**devnet.jetprotocol.io**](https://devnet.jetprotocol.io/) ****
