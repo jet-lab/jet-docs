@@ -8,9 +8,11 @@
   * [Get In Touch](the-jet-community/get-in-touch.md)
 * [Protocol](protocol/README.md)
   * [JET Token](protocol/jet-token.md)
+  * [How to get Jet Protocol Devnet Tokens](protocol/how-to-get-jet-protocol-devnet-tokens.md)
   * [API](protocol/api.md)
   * [Serum DEX Integration](protocol/serum-dex-integration.md)
   * [Liquidity Mining](protocol/liquidity-mining.md)
+* [Deployment](deployment.md)
 * [Design Assets](design-assets.md)
 
 ## Support
