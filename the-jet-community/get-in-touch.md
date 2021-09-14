@@ -14,9 +14,9 @@ description: >-
 
 Telegram: [https://t.me/jetprotocol](https://t.me/jetprotocol)
 
-Discord: [https://discord.gg/pxfU9u9M](https://discord.gg/pxfU9u9M) 
+Discord: [https://discord.gg/BsF3cEbdV9](https://discord.gg/BsF3cEbdV9)
 
 🐦 Find us on Twitter — [https://twitter.com/JetProtocol](https://twitter.com/JetProtocol) 🐦 
 
-📰 Subscribe to our newsletter: [https://jetprotocol.substack.com📰](https://jetprotocol.substack.com📰)
+📰 Subscribe to our newsletter: [https://jetprotocol.substack.com📰](https://jetprotocol.substack.com/)
 
