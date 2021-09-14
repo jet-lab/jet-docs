@@ -1,9 +1,5 @@
 # API
 
-Moreau Coming Soon...
-
-for users requiring the API to deposit an amount of a single asset and redeem it at a later date
-
 #### Deposit Reserve Liquidity
 
 function signature: 

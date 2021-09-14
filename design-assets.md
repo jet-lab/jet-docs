@@ -5,7 +5,7 @@ description: >-
   for designing within Jet's brand identity.
 ---
 
-# Design Assets
+# Press Kit
 
 ### Typography
 

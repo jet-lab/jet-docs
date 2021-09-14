@@ -1,19 +1,19 @@
 # How to get Jet Protocol Devnet Tokens
 
-**Jet Protocol is happy to announce the launch of our platform on Devnet! 🥳**  
+Jet Protocol is happy to announce the launch of our platform on Devnet! 🥳  
 
 
-**Testing on Devnet is incredibly useful to developers and users when integrating into any platform for running liquidations, trading or market making without risking tokens with real monetary value. Jet Protocol invites our community to interact with our platform and its current reserves using our in-app airdrop mechanism explained in this guide.**   
+Testing on Devnet is incredibly useful to developers and users when integrating into any platform for running liquidations, trading or market making without risking tokens with real monetary value. Jet Protocol invites our community to interact with our platform and its current reserves using our in-app airdrop mechanism explained in this guide.   
 
 
-**Please note that these airdropped tokens do not have any monetary value and cannot be traded for anything. They are to be used for simulating the borrowing and lending functions on the platform and to test for functionality.** 
+Please note that these airdropped tokens do not have any monetary value and cannot be traded for anything. They are to be used for simulating the borrowing and lending functions on the platform and to test for functionality. 
 
-**Your feedback whilst using the app on Devnet is highly appreciated and will help us improve the overall experience of our platform as we transition to Mainnet. Have fun!**  
+Your feedback whilst using the app on Devnet is highly appreciated and will help us improve the overall experience of our platform as we transition to Mainnet. Have fun!  
 
 
 **1. Log into your** [**Phantom Wallet**](https://phantom.app/) **and connect to** [**devnet.jetprotocol.io**](https://devnet.jetprotocol.io/) ****
 
-**2. Click the Settings button in the bottom right corner** 
+2. Click the Settings button in the bottom right corner 
 
 ![](https://lh6.googleusercontent.com/PXAykXLwoFD19xrIddUZ01YbPgdlvEIriFIWJ6xrn2W2Olhck-uTVLLVQZzerHE9KuiIGFI6j285I-PA1F7Y4BWdzml4LNBUnsA6fIH-gPqSpoP-csDUggjvXWH1PGsbxnp4kWFn=s0)
 
@@ -35,13 +35,13 @@
 
 ## **Troubleshooting**
 
-**If you run into any issues, try the following:**
+If you run into any issues, try the following:
 
-* **Clear your browser cache and cookies**
-* **Refresh the page**
-* **Disconnect and reconnect your wallet to the app** 
+* Clear your browser cache and cookies
+* Refresh the page
+* Disconnect and reconnect your wallet to the app 
 
-**If these don't work, head over to our** [**Discord**](https://discord.gg/nhD2zeBW) **where our team will be happy to help!**  
+If these don't work, head over to our [Discord](https://discord.gg/nhD2zeBW) where our team will be happy to help!  
 
 
 

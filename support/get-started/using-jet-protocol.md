@@ -4,7 +4,7 @@ description: How to navigate to and begin using Jet Protocol
 
 # Using Jet Protocol
 
-To begin using Jet Protocol please visit [https://app.jetprotocol.io/](https://app.jetprotocol.io/). 
+To begin using Jet Protocol please visit [https://devnet.jetprotocol.io](https://devnet.jetprotocol.io).
 
 Please make sure you are on the exact URL described above. Any variation of the URL is not affiliated with Jet Protocol and could be a phishing/spoofing attempt to steal your funds. 
 

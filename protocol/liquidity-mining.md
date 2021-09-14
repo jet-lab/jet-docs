@@ -1,4 +1,0 @@
-# Liquidity Mining
-
-Coming soon...
-
