@@ -8,7 +8,7 @@
   * [Get In Touch](the-jet-community/get-in-touch.md)
 * [Protocol](protocol/README.md)
   * [JET Token](protocol/jet-token.md)
-  * [How to get Jet Protocol Devnet Tokens](protocol/how-to-get-jet-protocol-devnet-tokens.md)
+  * [How to get Jet Protocol Devnet Tokens with Phantom Wallet](protocol/how-to-get-jet-protocol-devnet-tokens.md)
 * [Press Kit](design-assets.md)
 
 ## Support

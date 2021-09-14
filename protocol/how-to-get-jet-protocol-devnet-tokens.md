@@ -1,4 +1,4 @@
-# How to get Jet Protocol Devnet Tokens
+# How to get Jet Protocol Devnet Tokens with Phantom Wallet
 
 Jet Protocol is happy to announce the launch of our platform on Devnet! 🥳  
 
