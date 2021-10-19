@@ -7,6 +7,7 @@
 * [The Jet Community](the-jet-community/README.md)
   * [Get In Touch](the-jet-community/get-in-touch.md)
 * [Protocol](protocol/README.md)
+  * [Fees](protocol/fees.md)
   * [JET Token](protocol/jet-token.md)
   * [How to get Jet Protocol Devnet Tokens with Phantom Wallet](protocol/how-to-get-jet-protocol-devnet-tokens.md)
 * [Press Kit](design-assets.md)
@@ -16,4 +17,3 @@
 * [Get Started](support/get-started/README.md)
   * [Using Jet Protocol](support/get-started/using-jet-protocol.md)
   * [Getting Support](support/get-started/getting-support.md)
-
