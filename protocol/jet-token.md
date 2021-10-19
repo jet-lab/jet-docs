@@ -1,7 +1,3 @@
----
-description: What is the JET token
----
-
 # JET Token
 
 Jet Protocol's native Solana based SPL token is called JET. JET is a utility token which enables the two following primary uses:
@@ -17,4 +13,4 @@ CoinGecko: [https://www.coingecko.com/en/coins/jet](https://www.coingecko.com/en
 
 CoinMarketCap: [https://coinmarketcap.com/currencies/jet-protocol/](https://coinmarketcap.com/currencies/jet-protocol/)
 
-Defi Llama TVL tracker: [**https://defillama.com/protocol/jet**](https://defillama.com/protocol/jet)****
+Defi Llama TVL tracker: [https://defillama.com/protocol/jet](https://defillama.com/protocol/jet)
