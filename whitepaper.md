@@ -4,19 +4,19 @@ description: The summary of Jet Protocol's vision for decentralized borrowing an
 
 # Whitepaper
 
-**JET PROTOCOL**  
+**JET PROTOCOL**\
+****
 
+**PROTOCOL WHITEPAPER**\
+****\
+****
 
-**PROTOCOL WHITEPAPER**  
-  
-
-
-![](https://lh3.googleusercontent.com/XJYkw05nBhavoltDn68VfUN82E77db2tulN8Fwq2mHsy-zk_gDFUR2IjgWou0KfeQFfjorfUNYEzXw1XUJRltdyXOafOzwBDvJrHgoCrQyPGCfuWg1KPFCczoZG84sLdqaOvnzk)
+![](https://lh3.googleusercontent.com/XJYkw05nBhavoltDn68VfUN82E77db2tulN8Fwq2mHsy-zk\_gDFUR2IjgWou0KfeQFfjorfUNYEzXw1XUJRltdyXOafOzwBDvJrHgoCrQyPGCfuWg1KPFCczoZG84sLdqaOvnzk)
 
 **Version: 1.0**
 
-**July 2021**  
-
+**July 2021**\
+****
 
 **Authors: Wil Barnes and James Moreau**
 
@@ -26,13 +26,13 @@ description: The summary of Jet Protocol's vision for decentralized borrowing an
 
 **This paper introduces Jet Protocol, a decentralized protocol for borrowing and lending on the Solana Blockchain. History, definitions, and design are covered.**
 
-## **1. Introduction** 
+## **1. Introduction **
 
-Jet Protocol will launch as an open source, non-custodial, borrowing and lending protocol on the Solana Blockchain \(“the Protocol” and “Jet Protocol”\). The Protocol will allow users to deposit supported tokens to the Protocol. They will receive interest back to incentivize participation. Those deposits will sit in a pool that is also used for users looking to take out a loan in supported tokens. Because of this, individual users are not matched, and the Protocol can create rules to govern ratios, supported tokens, and a variety of other needs.
+Jet Protocol will launch as an open source, non-custodial, borrowing and lending protocol on the Solana Blockchain (“the Protocol” and “Jet Protocol”). The Protocol will allow users to deposit supported tokens to the Protocol. They will receive interest back to incentivize participation. Those deposits will sit in a pool that is also used for users looking to take out a loan in supported tokens. Because of this, individual users are not matched, and the Protocol can create rules to govern ratios, supported tokens, and a variety of other needs.
 
-We believe that borrowing and lending protocols are necessary to any decentralized finance \(“DeFi”\) ecosystem. They have been largely successful to date. In developing Jet Protocol we paid close attention to prior efforts on other Blockchains, whether from our own experience or from projects we watched and used. The decision to build on Solana is largely based on Solana’s unmatched speed and lower fees. This will allow us to push the limits of on-chain decentralized finance lending. We anticipate broader interest in more efficient trading than other chains, with tighter collateral ratios \(“cRatios”\), enhanced oracle data, and more efficient centralized exchange like liquidations.
+We believe that borrowing and lending protocols are necessary to any decentralized finance (“DeFi”) ecosystem. They have been largely successful to date. In developing Jet Protocol we paid close attention to prior efforts on other Blockchains, whether from our own experience or from projects we watched and used. The decision to build on Solana is largely based on Solana’s unmatched speed and lower fees. This will allow us to push the limits of on-chain decentralized finance lending. We anticipate broader interest in more efficient trading than other chains, with tighter collateral ratios (“cRatios”), enhanced oracle data, and more efficient centralized exchange like liquidations.
 
-Jet will innovate on battle tested governance models from existing protocols, skewing towards community ownership and engagement. The most important aspect of this governance-first approach is to build an inclusive community to research, design, and implement useful lending products. 
+Jet will innovate on battle tested governance models from existing protocols, skewing towards community ownership and engagement. The most important aspect of this governance-first approach is to build an inclusive community to research, design, and implement useful lending products.&#x20;
 
 A Jet user can borrow against over-collateralized debt positions, and may incur debt up to governance mandated debt ratios. If the value of a user’s deposited collateral falls under the specified ratio, their position may be liquidated by external actors, such as traders, or any users who can call the smart contract. In addition to lending, Jet will introduce interest rate product, secondary markets on Serum, and facilitate ongoing, community-driven lending product research & development.
 
@@ -40,7 +40,7 @@ From the outset, Jet will launch with a dedicated governance system that leverag
 
 ## **2. Solana Layer 1**
 
-Solana has emerged as a prominent, decentralized finance focused chain. Solana’s market infrastructure is becoming more sophisticated and robust by the day. Solana has a central limit order book \(Serum\), an automated market maker \(Raydium\), and a growing list of innovative projects \(Mango, PsyOptions, among others\). Solana is ripe for integration. What’s missing is a borrowing and lending protocol leveraging Solana’s innate tech stack, speed, and extremely low transaction fees to allow market participants to borrow against their Solana assets.
+Solana has emerged as a prominent, decentralized finance focused chain. Solana’s market infrastructure is becoming more sophisticated and robust by the day. Solana has a central limit order book (Serum), an automated market maker (Raydium), and a growing list of innovative projects (Mango, PsyOptions, among others). Solana is ripe for integration. What’s missing is a borrowing and lending protocol leveraging Solana’s innate tech stack, speed, and extremely low transaction fees to allow market participants to borrow against their Solana assets.
 
 Above all, Solana scales without the need for L2s or sharding, preserving atomic composability with other protocols. Rapid, sub-second blocktimes allow for better liquidity management, more innovative dynamic pricing from higher market data ingestion, and the ability to handle liquidations more gracefully via sequencing and confidence analysis of available liquidity during times of stress. All of which are infeasible on Ethereum.
 
@@ -60,7 +60,7 @@ We’ve arrived at building this protocol on Solana because we know the existing
 
 ### **3.1. Core Lending Protocol**
 
-Jet’s core borrowing and lending function will build on the token-lending program found in the Solana Program Library repository as well as the applicable cross-margin pull request for the initial mainnet launch. From there our development team will carry forward the iterative improvement and maintenance of the protocol.   
+Jet’s core borrowing and lending function will build on the token-lending program found in the Solana Program Library repository as well as the applicable cross-margin pull request for the initial mainnet launch. From there our development team will carry forward the iterative improvement and maintenance of the protocol. \
 ****
 
 ## **3.2 Lending Products**
@@ -77,7 +77,7 @@ The product in this MVP state provides Solana market participants a place to dep
 * Secondary markets for interest rate speculation
 * Liquidity provisioning for senior and junior debt positions
 
-These additional products will be developed on a strategic basis to capture opportunities before they emerge in the rapidly evolving DeFi capital markets ecosystem as the Jet Protocol base-layer products are adopted.  
+These additional products will be developed on a strategic basis to capture opportunities before they emerge in the rapidly evolving DeFi capital markets ecosystem as the Jet Protocol base-layer products are adopted.\
 ****
 
 #### **3.2.1 Liquidity mining to bootstrap liquidity**
@@ -118,9 +118,9 @@ At launch, the protocol includes a governance “terminal,” essentially the op
 
 On that note, these endpoints will be aggressively defended, with time-locks, early adopter token agreements in place to counter rogue proposals, and steep proposal quorums on launch, that will be relaxed over time as it’s demonstrated the protocol is battle-tested and hardened enough to sustain governance attacks.
 
-Upon mainnet launch, the collateral selection used to create debt positions will be fixed to SOL and the stablecoins borrowable against this debt position. After the initial few months of protocol usage, we will consider whether the health and performance of the MVP has met the expectations of the community. At this point the governance module will vote on expanding protocol capacity and changing parameters such as underlying collateral types, debt ceilings, bridge integrations, and interest rate models. Over time the expansion of parameters will increase to encompass the entire application and will remove central control of the foundation in place of community governance. 
+Upon mainnet launch, the collateral selection used to create debt positions will be fixed to SOL and the stablecoins borrowable against this debt position. After the initial few months of protocol usage, we will consider whether the health and performance of the MVP has met the expectations of the community. At this point the governance module will vote on expanding protocol capacity and changing parameters such as underlying collateral types, debt ceilings, bridge integrations, and interest rate models. Over time the expansion of parameters will increase to encompass the entire application and will remove central control of the foundation in place of community governance.&#x20;
 
-To recap, based on our experience we feel dictating a “solved” governance spec here would be disingenuous at best and prefer to be upfront about the complexities. Protocol governance is open from the earliest stage, it is not simply a development team operating behind a multisig, control of the governance module is root level access and it will be defended with appropriate measures. 
+To recap, based on our experience we feel dictating a “solved” governance spec here would be disingenuous at best and prefer to be upfront about the complexities. Protocol governance is open from the earliest stage, it is not simply a development team operating behind a multisig, control of the governance module is root level access and it will be defended with appropriate measures.&#x20;
 
 ## **4. We are uniquely positioned to deliver this protocol**
 
@@ -133,7 +133,7 @@ Our team is uniquely positioned to implement this protocol and expand its liquid
 * Building out support, knowledge base, content and community for Ethereum’s most widely used wallet as it grew from 20,000 users to over 1 million.
 * Leading support, content and community for the first multi-blockchain non-custodial staking and governance interface with over thousands of users and several hundred million USD staked through the platform.
 
-Our team has proven, practical experience in this domain, researching and implementing innovative governance defense tools to navigate protocols through the complexity as well as building and supporting staking and participatory governance user interfaces making it easy for anyone to participate in important governance decisions. Our team developed the \`dark spell\`, a code execution mechanism allowing a timelock to exist while preserving the ability for the MakerDAO community to patch critical vulnerabilities without being frontrun by adversarial attackers. Our team was also deeply involved in the earliest days of Ethereum’s cambrian explosion of ICO’s, DEX’s and early DeFi protocols, supporting the most widely used Ethereum wallet to this day.  
+Our team has proven, practical experience in this domain, researching and implementing innovative governance defense tools to navigate protocols through the complexity as well as building and supporting staking and participatory governance user interfaces making it easy for anyone to participate in important governance decisions. Our team developed the \`dark spell\`, a code execution mechanism allowing a timelock to exist while preserving the ability for the MakerDAO community to patch critical vulnerabilities without being frontrun by adversarial attackers. Our team was also deeply involved in the earliest days of Ethereum’s cambrian explosion of ICO’s, DEX’s and early DeFi protocols, supporting the most widely used Ethereum wallet to this day. &#x20;
 
 ## **5. Jet Roadmap 2021/2022**
 
@@ -145,7 +145,7 @@ Our team has proven, practical experience in this domain, researching and implem
 
 ### **Q3 2021**
 
-* Launch capped deposit mainnet of core lending MVP 
+* Launch capped deposit mainnet of core lending MVP&#x20;
 * Audit codebase in preparation for un-capped mainnet redeploy
 * Begin research, design, & implementation of V2
 
@@ -162,14 +162,13 @@ Our team has proven, practical experience in this domain, researching and implem
 
 ## **6. Summary**
 
-* Jet will launch as a borrowing and lending protocol on the Solana Blockchain. 
+* Jet will launch as a borrowing and lending protocol on the Solana Blockchain.&#x20;
 * The protocol can create rules to govern the ratios, supported tokens, and a variety of other needs.
-* The protocol will innovate on battle tested governance models from existing protocols, skewing towards community ownership and engagement. 
-* This governance-first approach will help build an inclusive community to research, design, and implement useful lending products. 
+* The protocol will innovate on battle tested governance models from existing protocols, skewing towards community ownership and engagement.&#x20;
+* This governance-first approach will help build an inclusive community to research, design, and implement useful lending products.&#x20;
 
 ## **Disclaimers**
 
-This paper is for general information purposes only and does not constitute investment advice, or a recommendation or solicitation to buy or sell any investment. This paper should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal, tax, or investment advice or recommendations. The information and opinions reflected herein are subject to change without being updated. 
+This paper is for general information purposes only and does not constitute investment advice, or a recommendation or solicitation to buy or sell any investment. This paper should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal, tax, or investment advice or recommendations. The information and opinions reflected herein are subject to change without being updated.&#x20;
 
 ## **References:**
-
