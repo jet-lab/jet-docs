@@ -30,7 +30,7 @@ Jet Protocol has undergone extensive code review by paid white-hats kindly provi
 
 **How do I borrow assets?  **
 
-You can deposit collateral (USDC, SOL, BTC, ETH) and borrow against it (USDC, SOL, BTC, ETH to start but more to come). As long as your collateral ratio stays healthy your debt position is safe. If your collateral value drops fast enough that you cannot deposit more to cover your position your collateral will be liquidated to cover your debt. See [https://app.gitbook.com/o/-MaBs951P6NYDr4MDv59/s/-M\_72skN1dye71puMdjs-887967055/c/TYgG9hMhPcTKTwnDlobr/beginner-guides](beginner-guides/) for more.
+You can deposit collateral (USDC, SOL, BTC, ETH) and borrow against it (USDC, SOL, BTC, ETH to start but more to come). As long as your collateral ratio stays healthy your debt position is safe. If your collateral value drops fast enough that you cannot deposit more to cover your position your collateral will be liquidated to cover your debt. See[ Beginner Guides](beginner-guides/) for more.
 
 **How do I lend my asset to get interest? **
 
