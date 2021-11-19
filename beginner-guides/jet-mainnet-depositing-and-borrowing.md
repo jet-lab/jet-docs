@@ -2,11 +2,11 @@
 description: 'How to use the Jet Protocol App: A guide to Depositing and Borrowing'
 ---
 
-# ✈ Jet Mainnet: Depositing & Borrowing
+# Jet Mainnet: Depositing & Borrowing
 
 #### Welcome to the Jet Protocol App, the newest borrowing and lending protocol in town!
 
-![app.jetprotocol.io](https://lh3.googleusercontent.com/IH-0cwI43ukZUe1zd22HlHsd6Ot2b\_wn7I2CAVh\_Exqk1Fups3w1LysRetulJnZqWB1wg1h2TZORB\_vUOUVCY5Ow6--2Q7JMXYfUaq5zqufXVuLVV\_c6iKEE2TP2TzoG8gQbsswl=s1600)
+![https://app.jetprotocol.io/](<../.gitbook/assets/Screen Shot 2021-11-19 at 4.50.11 PM.png>)
 
 #### Setting Up:
 

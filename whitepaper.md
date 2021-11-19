@@ -2,7 +2,7 @@
 description: The summary of Jet Protocol's vision for decentralized borrowing and lending
 ---
 
-# Whitepaper
+# 📄 Whitepaper
 
 **JET PROTOCOL**\
 ****

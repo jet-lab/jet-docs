@@ -5,59 +5,85 @@ description: >-
   for designing within Jet's brand identity.
 ---
 
-# Press Kit
+# 🔗 Press Kit
 
 ### Typography
 
-![](.gitbook/assets/screen-shot-2021-09-05-at-5.59.21-pm%20%281%29.png)
+![](<.gitbook/assets/screen-shot-2021-09-05-at-5.59.21-pm (1).png>)
 
-### 
+###
 
 ### Color Palette
 
 ![](.gitbook/assets/screen-shot-2021-09-05-at-6.01.22-pm.png)
 
-### 
+###
 
 ### Logo Files
 
-![Jet Abbreviated Lockup](.gitbook/assets/jet_abbrev_color%20%281%29.png)
+![Jet Abbreviated Lockup](<.gitbook/assets/jet\_abbrev\_color (1).png>)
 
-{% file src=".gitbook/assets/jet\_abbrev\_color.svg" caption="SVG — Color" %}
+{% file src=".gitbook/assets/jet_abbrev_color.svg" %}
+SVG — Color
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_abbrev\_color \(1\).png" caption="PNG — Color" %}
+{% file src=".gitbook/assets/jet_abbrev_color (1).png" %}
+PNG — Color
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_abbrev\_white.svg" caption="SVG — White" %}
+{% file src=".gitbook/assets/jet_abbrev_white.svg" %}
+SVG — White
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_abbrev\_white.png" caption="PNG — White" %}
-
-
-
-![Jet Full Lockup](.gitbook/assets/jet_full_color_black%20%281%29.png)
-
-{% file src=".gitbook/assets/jet\_full\_color\_black.png" caption="PNG — Color / Black" %}
-
-{% file src=".gitbook/assets/jet\_full\_color\_black.svg" caption="SVG — Color / Black" %}
-
-{% file src=".gitbook/assets/jet\_full\_color\_white.png" caption="PNG — Color / White" %}
-
-{% file src=".gitbook/assets/jet\_full\_color\_white.svg" caption="SVG — Color / White" %}
-
-{% file src=".gitbook/assets/jet\_full\_white.png" caption="PNG — White" %}
-
-{% file src=".gitbook/assets/jet\_full\_white.svg" caption="SVG — White" %}
+{% file src=".gitbook/assets/jet_abbrev_white.png" %}
+PNG — White
+{% endfile %}
 
 
 
-![Jet Logomark](.gitbook/assets/jet_logomark_color.png)
+![Jet Full Lockup](<.gitbook/assets/jet\_full\_color\_black (1).png>)
 
-{% file src=".gitbook/assets/jet\_logomark\_color \(1\).png" caption="PNG — Color" %}
+{% file src=".gitbook/assets/jet_full_color_black.png" %}
+PNG — Color / Black
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_logomark\_color.svg" caption="SVG — Color" %}
+{% file src=".gitbook/assets/jet_full_color_black.svg" %}
+SVG — Color / Black
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_logomark\_white.png" caption="PNG — White" %}
+{% file src=".gitbook/assets/jet_full_color_white.png" %}
+PNG — Color / White
+{% endfile %}
 
-{% file src=".gitbook/assets/jet\_logomark\_white.svg" caption="SVG — White" %}
+{% file src=".gitbook/assets/jet_full_color_white.svg" %}
+SVG — Color / White
+{% endfile %}
+
+{% file src=".gitbook/assets/jet_full_white.png" %}
+PNG — White
+{% endfile %}
+
+{% file src=".gitbook/assets/jet_full_white.svg" %}
+SVG — White
+{% endfile %}
 
 
+
+![Jet Logomark](.gitbook/assets/jet\_logomark\_color.png)
+
+{% file src=".gitbook/assets/jet_logomark_color (1).png" %}
+PNG — Color
+{% endfile %}
+
+{% file src=".gitbook/assets/jet_logomark_color.svg" %}
+SVG — Color
+{% endfile %}
+
+{% file src=".gitbook/assets/jet_logomark_white.png" %}
+PNG — White
+{% endfile %}
+
+{% file src=".gitbook/assets/jet_logomark_white.svg" %}
+SVG — White
+{% endfile %}
 
