@@ -28,15 +28,15 @@ Yes, Jet Protocol is totally permissionless to interact with. You do not need an
 
 Jet Protocol has undergone extensive code review by paid white-hats kindly provided by the Solana Foundation. We will have formal audits conducted after MVP on further iterations of Jet Protocol.&#x20;
 
-**How do I borrow assets?  **
+**How do I borrow assets?** &#x20;
 
 You can deposit collateral (USDC, SOL, BTC, ETH) and borrow against it (USDC, SOL, BTC, ETH to start but more to come). As long as your collateral ratio stays healthy your debt position is safe. If your collateral value drops fast enough that you cannot deposit more to cover your position your collateral will be liquidated to cover your debt. See[ Beginner Guides](beginner-guides/) for more.
 
-**How do I lend my asset to get interest? **
+**How do I lend my asset to get interest?**&#x20;
 
 You deposit your assets to the lending pool and will earn shared interest from your deposits.&#x20;
 
-**Are my deposited funds safe?  **
+**Are my deposited funds safe?** &#x20;
 
 While Jet Protocol is built by industry veterans and world-class financial systems developers, we are still in beta and you should not deposit more funds than you would be willing to lose. We make no guarantees of safety regarding the programs Jet Protocol is built on.&#x20;
 

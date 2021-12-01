@@ -26,7 +26,7 @@ description: The summary of Jet Protocol's vision for decentralized borrowing an
 
 **This paper introduces Jet Protocol, a decentralized protocol for borrowing and lending on the Solana Blockchain. History, definitions, and design are covered.**
 
-## **1. Introduction **
+## **1. Introduction**&#x20;
 
 Jet Protocol will launch as an open source, non-custodial, borrowing and lending protocol on the Solana Blockchain (“the Protocol” and “Jet Protocol”). The Protocol will allow users to deposit supported tokens to the Protocol. They will receive interest back to incentivize participation. Those deposits will sit in a pool that is also used for users looking to take out a loan in supported tokens. Because of this, individual users are not matched, and the Protocol can create rules to govern ratios, supported tokens, and a variety of other needs.
 

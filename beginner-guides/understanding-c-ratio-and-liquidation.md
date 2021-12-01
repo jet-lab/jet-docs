@@ -16,6 +16,6 @@ Currently the liquidation threshold on Jet Protocol is 125%. A portion of your c
 
 When you try to process a borrow or withdraw transaction that would bring your current c-ratio below 150%, the co-pilot system message will alert you that this is an unhealthy C-ratio.
 
-**How can I avoid liquidation? **
+**How can I avoid liquidation?**&#x20;
 
 When the market is volatile, you are at a lower risk of getting your account liquidated when your c-ratio is at 500% compared to when your C-ratio is at 200%. Your C-ratio can drop much faster than you expect in highly volatile environments, so it’s best to always check where your ratio is at and be prepared to either add more funds to top it off or repay and close your position.
