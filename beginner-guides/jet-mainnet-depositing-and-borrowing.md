@@ -10,8 +10,8 @@ description: 'How to use the Jet Protocol App: A guide to Depositing and Borrowi
 
 #### Setting Up:
 
-* Install your SPL Wallet: We recommend using [Phantom](https://phantom.app) wallet. Some other compatible wallets include Sollet.
-* Fund your SPL wallet: To use the functions on Jet, you must have enough SOL to cover txn fees and a one time refundable fee to open your account. You can buy SOL from exchanges like FTX or swap SPL assets for SOL on Raydium. You may also fund your wallet with whatever asset you would like to deposit to earn interest on and borrow against.&#x20;
+* Install your SPL Wallet: We recommend using [Phantom](https://phantom.app) wallet. Some other compatible wallets include Slope and Sollet.
+* Fund your SPL wallet: To use the functions on Jet, you must have enough SOL to cover txn fees and a one time refundable fee to open the account. You can buy SOL from exchanges like FTX or swap SPL assets for SOL on Raydium. You may also fund your wallet with whatever asset you would like to deposit to earn interest on and borrow against.&#x20;
 * Currently, Jet’s offerings include USDC, SOL, BTC & ETH. More collateral types will be available after the proposal and voting process.
 
 #### Depositing and Borrowing:
