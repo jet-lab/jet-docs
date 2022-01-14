@@ -1,6 +1,18 @@
 # Fees
 
-The protocol does not currently charge any fees. Subject to change.
+The protocol will turn on fees at the same time that the JetGovern governance application is released. These fees will become a source of revenue for the DAO to directly bolster the staking returns and long-term benefit of those JET holders staked and participating in governance.
+
+Note that these parameters are not static, and can be changed via governance as the protocol’s performance and health is evaluated on a rolling basis. The initial fees, once turned on, will be as follows:
+
+* 20% of interest earned by depositors will be earmarked specifically for the Jet DAO treasury
+* No origination fees on borrowers.
+
+Right now, these fees will accumulate in the Jet Protocol treasury, however in upcoming releases, the protocol will begin disbursing revenue directly to ecosystem stakeholders and participants. Ultimately this budget will be controlled via governance, but the initial perpetual reward program will see protocol revenue distributed as follows:
+
+* 10% used for Jet buybacks. These JET tokens will be returned to the DAO treasury and can be administered by DAO governance.&#x20;
+* 10% returned to the treasury in the same asset it was collected in.&#x20;
+* 40% distributed to JET stakers proportionate to the amount staked per user
+* 40% distributed to borrowers.
 
 ### User's Costs When Using Jet Protocol:
 
