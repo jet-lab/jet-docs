@@ -13,6 +13,7 @@
 * [✈ Protocol](protocol/README.md)
   * [Fees](protocol/fees.md)
   * [JET Token](protocol/jet-token.md)
+  * [JET Staking](protocol/jet-staking.md)
 * [⚡ Integrations](integrations/README.md)
   * [Sonar Watch](integrations/sonar-watch.md)
 * [🔗 Press Kit](design-assets.md)
