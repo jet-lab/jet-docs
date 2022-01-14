@@ -7,11 +7,11 @@ Note that these parameters are not static, and can be changed via governance as 
 * 20% of interest earned by depositors will be earmarked specifically for the Jet DAO treasury
 * No origination fees on borrowers.
 
-Right now, these fees will accumulate in the Jet Protocol treasury, however in upcoming releases, the protocol will begin disbursing revenue directly to ecosystem stakeholders and participants. Ultimately this budget will be controlled via governance, but the initial perpetual reward program will see protocol revenue distributed as follows:
+Right now these fees will accumulate in the Jet Protocol treasury. In upcoming releases the protocol will disburse revenue directly to ecosystem stakeholders and participants. This budget will be controlled via governance, and the initial perpetual reward program will likely see protocol revenue distributed as follows:
 
-* 10% used for Jet buybacks. These JET tokens will be returned to the DAO treasury and can be administered by DAO governance.&#x20;
-* 10% returned to the treasury in the same asset it was collected in.&#x20;
-* 40% distributed to JET stakers proportionate to the amount staked per user
+* 10% used for Jet buybacks. These JET tokens will be returned to the DAO treasury and can be administered by DAO governance.
+* 10% returned to the treasury in the same asset it was collected in.
+* 40% distributed to JET stakers.
 * 40% distributed to borrowers.
 
 ### User's Costs When Using Jet Protocol:
