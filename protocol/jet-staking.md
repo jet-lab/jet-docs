@@ -4,9 +4,13 @@ We envision JET staking as the ultimate place for long term believers in the pro
 
 **Unbonding Period**
 
-Should a JET holder wish to move their tokens once claimed and staked, a user must initiate  unbonding of their staked tokens in order to be able to remove them from the module. During the unbonding period, staked JET will remain held in the insurance fund (described below) and will not accrue additional airdropped tokens or be available for voting on proposals.&#x20;
+Should a JET holder wish to move their tokens once claimed and staked, a user must initiate  unbonding of their staked tokens in order to be able to remove them from the module. During the unbonding period, staked JET will remain held in the insurance fund (described below) and will not accrue additional airdropped tokens, or be available for voting on proposals. Any votes that have been cast on active proposals will be rescinded.
 
-The bonding period duration is 29.5 days (one full lunar cycle). After beginning the unbonding period, a countdown will be displayed in the JetGovern dashboard, and after the countdown ends a "withdraw" button will appear as an option to remove the JET back to the user's wallet.
+The bonding period duration is 29.5 days (one full lunar cycle). After beginning the unbonding period, the total JET in the process of unbonding will be displayed as so in the JetGovern dashboard. Additionally, a countdown until the end of the unbonding period for each unstaked lot will be displayed on the "Flight Logs" page. When the unbonding period for any lot of unstaked tokens ends, a "withdraw" button will appear on the dashboard near the "stake/unstake" buttons for tat lot -- The user may then withdraw JET back to their wallet when they choose to do so.
+
+If the user changes their mind and would like to restake before their JET is unbound and available for withdrawal, they may do so in the "Flight Logs" page at any time during the unbonding period. Restaking will re-enable rewards instantly, and users may again vote on proposals with that lot of JET.&#x20;
+
+Note that if a user cast a vote on an active proposal and unstaked those tokens, they will need to re-vote on the proposal after restaking, since the act of unstaking and placing JET into the unbonding queue rescinds any active votes.
 
 #### Earn Protocol Fees by Staking
 
