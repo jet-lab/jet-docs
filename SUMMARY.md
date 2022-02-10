@@ -10,6 +10,7 @@
   * [Jet Mainnet: Depositing & Borrowing](beginner-guides/jet-mainnet-depositing-and-borrowing.md)
   * [How to get Jet Protocol Devnet Tokens with Phantom Wallet](beginner-guides/how-to-get-jet-protocol-devnet-tokens.md)
   * [Understanding C-Ratio & Liquidation](beginner-guides/understanding-c-ratio-and-liquidation.md)
+  * [Interest Rates on Jet](beginner-guides/interest-rates-on-jet.md)
 * [✈ Protocol](protocol/README.md)
   * [Fees](protocol/fees.md)
   * [JET Token](protocol/jet-token.md)
