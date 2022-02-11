@@ -18,16 +18,6 @@ The Jet interest rate curve was designed at a higher utilization ratio than the 
 
 **On average, the platform with tighter spreads offers better lending and borrowing rates. This is what Jet wants to provide -- All users of the protocol are at their happiest with the tightest spreads, since the borrowers are paying less in interest, and the lenders are receiving more!**
 
-The two below graphs compare the interest rate midpoints of Jet with other protocols on Solana, assuming that arbitrage and other market activity drives the midpoints of the same markets across different platforms to be approximately equal (As cryptocurrency markets continue to mature, this becomes even more true).
-
-
-
-![](<../.gitbook/assets/image (7).png>)
-
-
-
-![](<../.gitbook/assets/image (4).png>)
-
 
 
 **How Jet Combats Liquidity Risk**
