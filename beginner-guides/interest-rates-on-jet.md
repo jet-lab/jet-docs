@@ -6,9 +6,7 @@ The interest rates for each asset is dynamic (always changing) and determined as
 
 As the utilization ratio increases, the interest rate also increases. The interest rate curve on JET was designed with three segments, in order to improve upon and and add flexibility to the two segment curve typically used in borrowing and lending apps.&#x20;
 
-![Jet Protocol's interest rate curve, expressed in both APR and APY terms](<../.gitbook/assets/image (8).png>)
-
-****
+![](../.gitbook/assets/rates.svg)
 
 **Tighter Interest Rate Spreads - Jet's Competitive Advantage**
 
@@ -17,8 +15,6 @@ As the utilization ratio increases, the interest rate also increases. The intere
 The Jet interest rate curve was designed at a higher utilization ratio than the other protocols when the average market rates are less than approximately 45%. As a result, Jet offers the tightest interest rate spreads.
 
 **On average, the platform with tighter spreads offers better lending and borrowing rates. This is what Jet wants to provide -- All users of the protocol are at their happiest with the tightest spreads, since the borrowers are paying less in interest, and the lenders are receiving more!**
-
-
 
 **How Jet Combats Liquidity Risk**
 
