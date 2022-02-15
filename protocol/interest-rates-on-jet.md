@@ -4,7 +4,16 @@
 
 The interest rates for each asset is dynamic (always changing) and determined as a function of the **utilization ratio** of each asset. For example, if 1000 USDC total has been supplied to the platform and 500 USDC is currently being borrowed, the utilization ratio for USDC at that moment would be 50%.
 
-As the utilization ratio increases, the interest rate also increases. The interest rate curve on JET was designed with three segments, in order to improve upon and and add flexibility to the two segment curve typically used in borrowing and lending apps.&#x20;
+As the utilization ratio increases, the interest rate also increases. The interest rate curve on JET was designed with three segments, in order to improve upon and and add flexibility to the two segment curve typically used in borrowing and lending apps.
+
+| Parameters                            | Values |   |
+| ------------------------------------- | ------ | - |
+| First optimal utilisation point       | 85%    |   |
+| Second optimal utilisation point      | 95%    |   |
+| Starting interest rate                | 0.5%   |   |
+| Interest rate at first optimal point  | 6%     |   |
+| Interest rate at second optimal point | 40%    |   |
+| Maximum interest rate                 | 160%   |   |
 
 ![](../.gitbook/assets/rates.svg)
 
