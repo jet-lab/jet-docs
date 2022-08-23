@@ -11,7 +11,7 @@ Please note that these airdropped tokens do not have any monetary value and cann
 Your feedback whilst using the app on Devnet is highly appreciated and will help us improve the overall experience of our platform as we transition to Mainnet. Have fun!\
 
 
-1\. Log into your [Phantom Wallet](https://phantom.app) and connect to [devnet.jetprotocol.io](https://devnet.jetprotocol.io)&#x20;
+1\. Log into your [Phantom Wallet](https://phantom.app/) and connect to [devnet.jetprotocol.io](https://devnet.jetprotocol.io/)&#x20;
 
 2\. Click the Settings button in the bottom right corner&#x20;
 

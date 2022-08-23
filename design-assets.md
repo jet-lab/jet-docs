@@ -9,13 +9,13 @@ description: >-
 
 ### Typography
 
-![](<.gitbook/assets/screen-shot-2021-09-05-at-5.59.21-pm (1).png>)
+![](<.gitbook/assets/Screen Shot 2021-09-05 at 5.59.21 PM (1).png>)
 
 ###
 
 ### Color Palette
 
-![](.gitbook/assets/screen-shot-2021-09-05-at-6.01.22-pm.png)
+![](<.gitbook/assets/Screen Shot 2021-09-05 at 6.01.22 PM.png>)
 
 ###
 
@@ -41,9 +41,9 @@ PNG — White
 
 
 
-![Jet Full Lockup](<.gitbook/assets/jet\_full\_color\_black (1).png>)
+![Jet Full Lockup](.gitbook/assets/jet\_full\_color\_black.png)
 
-{% file src=".gitbook/assets/jet_full_color_black.png" %}
+{% file src=".gitbook/assets/jet_full_color_black (1).png" %}
 PNG — Color / Black
 {% endfile %}
 

@@ -10,15 +10,15 @@ Jet Protocol works with most popular browsers which have web 3 enabled wallet fu
 
 **Popular Solana operable wallets to use with Jet Protocol:**
 
-****[Phantom](https://phantom.app)
+****[Phantom](https://phantom.app/)
 
-[Slope](https://slope.finance)
+[Slope](https://slope.finance/)
 
-[Sollet](https://www.sollet.io)
+[Sollet](https://www.sollet.io/)
 
 [Math Wallet](https://mathwallet.org/en-us/)
 
-[Solflare](https://solflare.com)
+[Solflare](https://solflare.com/)
 
 **Setting Up Your Wallet**
 

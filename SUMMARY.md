@@ -2,7 +2,8 @@
 
 * [🏠 Home](README.md)
 * [❔ FAQ](faq.md)
-* [📄 Whitepaper](whitepaper.md)
+* [📚 Terms and Definitions](terms-and-definitions.md)
+* [📄 Jet Litepaper](https://uploads-ssl.webflow.com/620e4761998cce492a7c9c8d/62ebf0ff41fac7359bfb2964\_litepaper-v0.0.1.pdf)
 * [⚠ Disclaimers and Risks](disclaimers-and-risks.md)
 * [🤝 The Jet Community](the-jet-community/README.md)
   * [Get In Touch](the-jet-community/get-in-touch.md)
@@ -11,13 +12,15 @@
   * [How to get Jet Protocol Devnet Tokens with Phantom Wallet](beginner-guides/how-to-get-jet-protocol-devnet-tokens.md)
   * [Understanding C-Ratio & Liquidation](beginner-guides/understanding-c-ratio-and-liquidation.md)
 * [✈ Protocol](protocol/README.md)
+  * [Margin accounts](protocol/margin-accounts.md)
   * [Interest Rates on Jet](protocol/interest-rates-on-jet.md)
   * [Fees](protocol/fees.md)
   * [JET Token](protocol/jet-token.md)
-  * [JET Staking](protocol/jet-staking.md)
+  * [Smart Contracts](protocol/smart-contracts.md)
 * [⚡ Integrations](integrations/README.md)
   * [Sonar Watch](integrations/sonar-watch.md)
 * [🔗 Press Kit](design-assets.md)
+* [📋 Audit Reports](audit-reports.md)
 
 ## Support
 
