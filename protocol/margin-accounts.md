@@ -30,7 +30,7 @@ $$
 K_w = \sum_{a \in \cal{A}} w_a P_a
 $$
 
-Liabilities imply a certain amount of **required collateral** that depends on the size of the liability and the **collateral requirement factor**, denoted $$f_l$$​. The required collateral is given by
+Liabilities imply a certain amount of **required collateral** that depends on the size of the liability and the **required collateral factor**, denoted $$f_l$$​. The required collateral is given by
 
 $$
 K_r = \sum_{l \in \cal{L}} { P_l \over f_l }
