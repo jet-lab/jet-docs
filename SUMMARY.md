@@ -19,6 +19,7 @@
   * [Smart Contracts](protocol/smart-contracts.md)
 * [⚡ Integrations](integrations/README.md)
   * [Sonar Watch](integrations/sonar-watch.md)
+  * [Pyth Oracle](integrations/pyth-oracle.md)
 * [🔗 Press Kit](design-assets.md)
 * [📋 Audit Reports](audit-reports.md)
 

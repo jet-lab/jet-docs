@@ -4,6 +4,8 @@ description: You can now track your Jet positions directly on Sonar! 🎉
 
 # Sonar Watch
 
+**Website**: [https://sonar.watch/](https://sonar.watch/)
+
 ### What is Sonar Watch?
 
 From Sonar Watch Docs&#x20;
@@ -13,6 +15,3 @@ From Sonar Watch Docs&#x20;
 ### How is Sonar Watch useful for Jet users?
 
 Sonar's dashboard will allow Jet users to analyze their performance on all different assets through historical charts on TVL, Supply, APR and prices.
-
-
-

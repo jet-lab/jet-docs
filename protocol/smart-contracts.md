@@ -5,7 +5,7 @@ description: List of deployed contracts on Solana
 # Smart Contracts
 
 * All contracts are deployed on both devnet and mainnet.
-* All contracts are upgradable on mainnet, where the authority is currently configured to a Multisig owned by the core team (`7R6FjP2HfXAgKQjURC4tCBrUmRQLCgEUeX2berrfU4ox`)
+* All contracts are upgradable on mainnet, where the authority is currently configured to a 3/4 Multisig owned by the core team (`7R6FjP2HfXAgKQjURC4tCBrUmRQLCgEUeX2berrfU4ox`)
 
 | Usage              | Address                                       | Repository                                                                                          |
 | ------------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -18,3 +18,12 @@ description: List of deployed contracts on Solana
 | Jet Margin Pool    | `JPPooLEqRo3NCSx82EdE2VZY5vUaSsgskpZPBHNGVLZ` | [Code](https://github.com/jet-lab/jet-v2/tree/mainnet/programs/margin-pool)                         |
 | Jet Metadata       | `JPMetawzxw7WyH3qHUVScYHWFBGhjwqDnM2R9qVbRLp` | [Code](https://github.com/jet-lab/jet-v2/tree/mainnet/programs/metadata)                            |
 | Jet Control        | `JPCtrLreUqsEbdhtxZ8zpd8wBydKz4nuEjX5u9Eg5H8` | [Code](https://github.com/jet-lab/jet-v2/tree/mainnet/programs/control)                             |
+
+
+
+### Pause Control&#x20;
+
+Individual pools can be disabled by the core team Multisig, in case of an emergency.
+
+
+

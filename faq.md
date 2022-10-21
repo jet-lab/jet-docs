@@ -43,3 +43,11 @@ While Jet Protocol is built by industry veterans and world-class financial syste
 **When will you support \[any] asset?**
 
 Jet Protocol will add new assets based on user demand and the selection criteria and decisions will ultimately be decided by the community and governance body of the protocol.&#x20;
+
+**Can I be front-run when using Jet?**
+
+No, there is no danger of being front-run in any way when using Jet.
+
+**Is Jet vulnerable to flash loan attacks?**
+
+No. Due to how margin account "health checks" are performed, Flash loans are not possible at this moment. Flash loans may potentially be enabled for usage in the future, while still performing health checks at the relevant times to ensure that an exploit is not possible.
