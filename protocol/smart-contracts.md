@@ -5,7 +5,7 @@ description: List of deployed contracts on Solana
 # Smart Contracts
 
 * All contracts are deployed on both devnet and mainnet.
-* All contracts are upgradable on mainnet, where the authority is currently configured to a 3/4 Multisig owned by the core team (`7R6FjP2HfXAgKQjURC4tCBrUmRQLCgEUeX2berrfU4ox`)
+* All contracts are fully upgradable on mainnet, where the authority is currently configured to a 3/4 Multisig owned by the core team (`7R6FjP2HfXAgKQjURC4tCBrUmRQLCgEUeX2berrfU4ox`)
 
 | Usage              | Address                                       | Repository                                                                                          |
 | ------------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
