@@ -14,3 +14,9 @@ CoinGecko: [https://www.coingecko.com/en/coins/jet](https://www.coingecko.com/en
 CoinMarketCap: [https://coinmarketcap.com/currencies/jet-protocol/](https://coinmarketcap.com/currencies/jet-protocol/)
 
 Defi Llama TVL tracker: [https://defillama.com/protocol/jet](https://defillama.com/protocol/jet)
+
+
+
+### DAO Treasury&#x20;
+
+JET tokens belonging to the JetDAO treasury are located at the pubkey `daopBpi53hHMRQLX7wSMF14A272a9L6w3nqVjb11mrH`
