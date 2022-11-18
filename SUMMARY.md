@@ -16,7 +16,7 @@
   * [Interest Rates on Jet](protocol/interest-rates-on-jet.md)
   * [Fees](protocol/fees.md)
   * [JET Token](protocol/jet-token.md)
-  * [Smart Contracts / Treasury Accounts](protocol/smart-contracts-treasury-accounts.md)
+  * [Smart Contracts](protocol/smart-contracts.md)
 * [⚡ Integrations](integrations/README.md)
   * [Sonar Watch](integrations/sonar-watch.md)
   * [Pyth Oracle](integrations/pyth-oracle.md)
