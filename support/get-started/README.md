@@ -12,13 +12,9 @@ Jet Protocol works with most popular browsers which have web 3 enabled wallet fu
 
 ****[Phantom](https://phantom.app/)
 
-[Slope](https://slope.finance/)
-
-[Sollet](https://www.sollet.io/)
+[Solflare](https://solflare.com/)
 
 [Math Wallet](https://mathwallet.org/en-us/)
-
-[Solflare](https://solflare.com/)
 
 **Setting Up Your Wallet**
 
