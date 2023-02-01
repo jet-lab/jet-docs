@@ -6,7 +6,7 @@ description: 'How to use the Jet Protocol App: A guide to Depositing and Borrowi
 
 #### Welcome to the Jet Protocol App, the newest borrowing and lending protocol in town!
 
-![app.jetprotocol.io](<../.gitbook/assets/Screen Shot 2021-11-19 at 4.50.11 PM.png>)
+![app.jetprotocol.io](<../../.gitbook/assets/Screen Shot 2021-11-19 at 4.50.11 PM.png>)
 
 #### Setting Up:
 
@@ -18,7 +18,7 @@ description: 'How to use the Jet Protocol App: A guide to Depositing and Borrowi
 
 * After connecting your wallet to [app.jetprotocol.io](https://app.jetprotocol.io/), choose which asset you would like to deposit. We will demonstrate with Solana’s native token, SOL.
 
-![app.jetprotocol.io ](<../.gitbook/assets/Untitled design.png>)
+![app.jetprotocol.io ](<../../.gitbook/assets/Untitled design.png>)
 
 * Enter the amount of SOL you want to deposit to the protocol
 

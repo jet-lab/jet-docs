@@ -1,4 +1,4 @@
-# Fees
+# 🛫 Fees
 
 At some point after the JetGovern application is released, protocol feeds will be turned on. These fees may become become a source of revenue for the DAO in the future, to directly bolster the staking returns and long-term benefit of those JET holders staked and participating in governance.
 

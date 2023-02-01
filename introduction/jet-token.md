@@ -1,4 +1,4 @@
-# JET Token
+# 🪙 JET Token
 
 Jet Protocol's native Solana based SPL token is called JET. JET is a utility token which enables the two following primary uses:
 

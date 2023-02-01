@@ -1,4 +1,4 @@
-# Interest Rates on Jet
+# 🛫 Interest Rates on Jet
 
 **Utilization Ratio Determines Interest Rates**
 
@@ -8,7 +8,7 @@ As the utilization ratio increases, the interest rate also increases. The intere
 
 <table><thead><tr><th>Parameters</th><th>Values</th><th data-hidden></th></tr></thead><tbody><tr><td>First optimal utilisation point</td><td>85%</td><td></td></tr><tr><td>Second optimal utilisation point</td><td>95%</td><td></td></tr><tr><td>Starting interest rate</td><td>0.5%</td><td></td></tr><tr><td>Interest rate at first optimal point</td><td>6%</td><td></td></tr><tr><td>Interest rate at second optimal point</td><td>40%</td><td></td></tr><tr><td>Maximum interest rate</td><td>160%</td><td></td></tr></tbody></table>
 
-![](../.gitbook/assets/rates.svg)
+![](../../.gitbook/assets/rates.svg)
 
 **Tighter Interest Rate Spreads - Jet's Competitive Advantage**
 

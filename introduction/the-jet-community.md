@@ -2,7 +2,7 @@
 description: A primer on the Jet Protocol community and helpful links
 ---
 
-# 🤝 The Jet Community
+# ❤ The Jet Community
 
 Jet Protocol is a governance and community driven effort. We seek to implement lessons learned in other governance driven DeFi protocols that have come before us. Planning, building and fostering an amazing community is extremely important to us and as we are able to coalesce around individuals, groups and our shared goals we believe this will make for a stronger, more resilient and self-sustaining ecosystem for Jet Protocol and other DeFi applications to thrive within.&#x20;
 
