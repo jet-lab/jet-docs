@@ -1,12 +1,8 @@
----
-description: Information and documentation on how to interact with Jet Protocol
----
+# ❓ What is Jet Protocol?
 
-# ✈ Protocol
+Jet Protocol is best conceived as a constellation of products centered around the Margin program.
 
-Jet Protocol is best conceived of as a constellation of products centered around the margin program.
-
-![](<../.gitbook/assets/Margin Account (1).svg>)
+<figure><img src="../.gitbook/assets/Margin Account.svg" alt=""><figcaption></figcaption></figure>
 
 Jet Protocol core infrastructure includes:
 
@@ -20,6 +16,10 @@ Other products are supported by connecting external protocols to the margin prog
   * **Leveraged Swap:** Jet Swap program routes order to trading venue with most advantageous execution for the user.
   * Note that Orca pools and Saber pools are parts of **external** protocols that Jet does not have any control over. Jet Margin program allows user's Margin Account to interface with these protocols for the purpose of swapping tokens.
 
-In the following sections, there are more details regarding margin accounting, interest rates, and fees.
+**For more detail of Jet Products, see the** [**"Jet Products"**](../protocol/jet-products/) **page.**
 
-This technical documentation will be evolving with the code over the coming months. If you have specific questions left unanswered here post on the forum here: [https://forum.jetprotocol.io/c/support/13](https://forum.jetprotocol.io/c/support/13)&#x20;
+
+
+{% content-ref url="../protocol/jet-products/" %}
+[jet-products](../protocol/jet-products/)
+{% endcontent-ref %}

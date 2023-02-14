@@ -1,12 +1,12 @@
-# 🛫 Margin accounts
+# Margin Accounts Accounting
 
-A margin account is like a ledger within a ledger, keeping track of assets and liabilities that the user has accrued through their interaction with integrated products and services. It is via the margin account that a user's deposits as construed as collateral against which the user can borrow or take other risk positions. Margin accounts keep the protocol safe by providing a liquidation mechanism to cover debts when necessary.
+A margin account a ledger within a ledger, keeping track of assets and liabilities that the user has accrued through their interaction with integrated products. It is via the margin account that a user's deposits as construed as collateral against which the user can borrow or take other risk positions. Margin accounts keep the protocol safe by providing a liquidation mechanism to cover debts when necessary.
 
 A particular user, identified by a public key, may have multiple margin accounts. These can be named for easy reference. The app allows seamless switching between margin accounts and for transferring assets between margin accounts. From a risk perspective all margin accounts are completely isolated. Liquidations only affect a particular unhealthy account, even if the user being liquidated also owns other margin accounts.
 
 ## Accounting
 
-From an accounting perspective a particular margin account can be viewed as a list of assets $${\cal A}$$ and a list of liabilities $${\cal L}$$. Margin accounting proceeds in terms of the USD value of these positions.
+From an accounting perspective, a particular margin account can be viewed as a list of assets $${\cal A}$$ and a list of liabilities $${\cal L}$$. Margin accounting proceeds in terms of the USD value of these positions.
 
 The **assets** $$A$$ and **liabilities** $$L$$ of the margin account are given by
 
@@ -46,7 +46,7 @@ $$
 
 The following metrics are also used throughout the app and SDK to shed light on the state of a margin account:
 
-**Leverage** is defined as usual
+**Leverage** is defined as
 
 $$
 {\rm leverage} = { A \over  A - L }

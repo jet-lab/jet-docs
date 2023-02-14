@@ -1,11 +1,34 @@
----
-description: Welcome aboard!
----
+# 🏠 Welcome
 
-# 🏠 Home
+## **Welcome Aboard!**
 
-## About Jet Protocol
+Jet Protocol is an **open source**, **non-custodial**, borrowing and lending protocol on the [Solana Blockchain](https://solana.com/).&#x20;
 
-Jet is an open source, non-custodial liquidity protocol pushing the envelope on decentralized finance and debt capital markets efficiency. We offer first class, market based lending products built for the emerging DeFi high flyers. Our bleeding edge on-chain products connect flight operations among crypto-native traders and soon, with permissioned institutional players. We are a remote but close-knit flight crew consisting of veteran pilots with tens of thousands of long-haul flying hours at blue-chip DeFi, TradFi, and Big Tech firms.
+Jet Protocol is governed by the [JetDAO](https://jetdao.fi/). The [JetDAO](https://docs.jetdao.fi/about/jetdao) is comprised of a community of DeFi contributors, Developers, the Governance Committee and $JET token holders.&#x20;
 
-A Jet user can borrow against over-collateralized debt positions, and may incur debt up to governance mandated debt ratios. If the value of a user’s deposited collateral falls under the specified ratio, their position is able to be liquidated by external actors, such as traders or any users who can call the smart contract. In addition to lending, Jet will introduce interest rate product secondary markets on Serum and facilitate ongoing community-driven lending product research & development.
+
+
+**For product information, you may choose your source by the level of depth you are searching for:**
+
+* The[ **Protocol "Products" page**](https://docs.jetprotocol.io/jet-protocol/protocol) dives deeper into details of each Jet product:
+
+{% content-ref url="protocol/jet-products/" %}
+[jet-products](protocol/jet-products/)
+{% endcontent-ref %}
+
+* Jet's [**developer documentation**](https://jet-lab.github.io/jet-v2/) documents the Jet on-chain programs in detail.
+* The [**Litepaper**](https://uploads-ssl.webflow.com/620e4761998cce492a7c9c8d/62ebf0ff41fac7359bfb2964\_litepaper-v0.0.1.pdf) **** introduces and describes the initially proposed products, and can be thought of as a high-level roadmap.
+
+
+
+### **Get Involved with Jet**
+
+The [Jet Forum](https://forum.jetprotocol.io/) is the home for discussion on all protocol changes, official proposals and proposal-related discussion. &#x20;
+
+
+
+More information can be found on the Community page:
+
+{% content-ref url="introduction/community.md" %}
+[community.md](introduction/community.md)
+{% endcontent-ref %}
