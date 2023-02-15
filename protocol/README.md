@@ -4,7 +4,7 @@ description: Information and documentation on how to interact with Jet Protocol
 
 # ✈ Protocol
 
-Jet Protocol is best conceived of as a constellation of products centered around the margin program.
+Jet Protocol is best conceived as a constellation of products centered around the margin program.
 
 ![](<../.gitbook/assets/Margin Account (1).svg>)
 
@@ -17,9 +17,19 @@ Jet Protocol core infrastructure includes:
 Other products are supported by connecting external protocols to the margin program:
 
 * **Margin trading** is provided by permissioned adapters to trading venues such as Saber, Orca and OpenBook.
-  * **Leveraged Swap:** Jet Swap program routes order to trading venue with most advantageous execution for the user.
+* **Leverage Swaps:** Jet Swap program routes order to trading venue with most advantageous execution for the user.
   * Note that Orca pools and Saber pools are parts of **external** protocols that Jet does not have any control over. Jet Margin program allows user's Margin Account to interface with these protocols for the purpose of swapping tokens.
 
-In the following sections, there are more details regarding margin accounting, interest rates, and fees.
+In the following subsections, there are more details regarding margin accounting, interest rates, and fees:
 
-This technical documentation will be evolving with the code over the coming months. If you have specific questions left unanswered here post on the forum here: [https://forum.jetprotocol.io/c/support/13](https://forum.jetprotocol.io/c/support/13)&#x20;
+{% content-ref url="jet-products/margin-pool-interest-rates.md" %}
+[margin-pool-interest-rates.md](jet-products/margin-pool-interest-rates.md)
+{% endcontent-ref %}
+
+{% content-ref url="jet-products/margin-accounts-accounting.md" %}
+[margin-accounts-accounting.md](jet-products/margin-accounts-accounting.md)
+{% endcontent-ref %}
+
+
+
+This technical documentation will be evolving with the code over the coming months. If you have specific questions left unanswered, post on the forum here: [https://forum.jetprotocol.io/c/support/13](https://forum.jetprotocol.io/c/support/13)&#x20;

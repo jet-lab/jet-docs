@@ -10,6 +10,12 @@ Jet Protocol is governed by the [JetDAO](https://jetdao.fi/). The [JetDAO](https
 
 **For product information, you may choose your source by the level of depth you are searching for:**
 
+* The Protocol page gives a brief overview of each Jet Product:
+
+{% content-ref url="protocol/" %}
+[protocol](protocol/)
+{% endcontent-ref %}
+
 * The[ **Protocol "Products" page**](https://docs.jetprotocol.io/jet-protocol/protocol) dives deeper into details of each Jet product:
 
 {% content-ref url="protocol/jet-products/" %}
