@@ -9,7 +9,7 @@
 * Airspaces (future release)
 * [JetGovern](https://govern.jetassociation.org/)
 
-More information regarding Jet Products can be found on the ["Jet Products"](../protocol/jet-products/)[ ](broken-reference)page.&#x20;
+More information regarding Jet Products can be found on the ["Protocol"](../protocol/)[ ](broken-reference)page and its child pages.&#x20;
 
 ****
 

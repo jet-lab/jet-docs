@@ -10,11 +10,11 @@ More information on accounting regarding Margin Account can be found on the ["Ma
 
 ****
 
-**Margin Trading: Leverage Swaps** - Spot margin trading with up to 15x leverage facilitated by SPL, Saber, Orca AMM pools and Jet's Margin Accounts.&#x20;
+**Leverage Swaps** - Spot margin trading with up to 15x leverage facilitated by SPL, Saber, Orca AMM pools, Openbook CLOB DEX, and Jet's Margin Accounts.&#x20;
 
 ****
 
-**Fixed Term Markets**  - A continuous market for fixed-rate and fixed-term debt-provisioning. The product will launch with 1 day, 30 day, 60 day, and 180 day tenors, or fixed-period.
+**Fixed Term Markets**  - A continuous market for fixed-rate and fixed-term debt-provisioning. The product will launch with 1 day and 30 day tenors.
 
 ****
 
