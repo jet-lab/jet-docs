@@ -33,3 +33,8 @@ The following subpages contain guides to understanding and using the fixed term 
 {% endcontent-ref %}
 
 \
+**Descriptions of the borrow and lend actions you can take in the Fixed Term application:**
+
+{% content-ref url="fixed-term-actions-how-to-borrow-and-lend.md" %}
+[fixed-term-actions-how-to-borrow-and-lend.md](fixed-term-actions-how-to-borrow-and-lend.md)
+{% endcontent-ref %}
