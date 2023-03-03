@@ -17,7 +17,7 @@ description: >-
 
 **Deficit** - The amount by which something, especially a sum of value, is smaller than what is expected and required.
 
-**Risk Indicator** - The indicator showing the health of your margin account. You are required to over-collateralize your loan, i.e. the fair market value of your deposited assets must exceed the value of the amount you are allowed to borrow. This provides for a reduction because the Protocol may seize this collateral in order to recoup the value of the loan in the event of default on a loan. See also, Maximum LTV.
+**Risk Level Indicator** - The indicator showing the health of your margin account. You are required to over-collateralize your loan, i.e. the fair market value of your deposited assets must exceed the value of the amount you are allowed to borrow. This provides for a reduction because the Protocol may seize this collateral in order to recoup the value of the loan in the event of default on a loan. See also, Maximum LTV.
 
 **Deposit interest rate** - The instantaneous interest rate being earned by depositors. This rate is expressed in annualized form, does not reflect the effects of compounding, and is inclusive of any protocol fees that may be in place. The rate changes as the utilization ratio of the deposited asset changes.
 

@@ -1,23 +1,16 @@
 ---
-description: Useful links for getting started with Jet Protocol and how to get support
+description: How to navigate to and begin using Jet Protocol
 ---
 
-# Get Started
+# 🚀 Get Started
 
-Jet Protocol is a permissionless borrowing and lending protocol that enables easy borrowing against crypto collateral as well as the ability to earn interest by depositing (lending) into the pooled lending and fixed rate fixed term marketplace.
+Jet Protocol is a permissionless borrowing and lending protocol that enables easy borrowing against crypto collateral as well as the ability to earn interest by providing liquidity (lending) into the Margin Pool and fixed rate fixed term marketplace.
 
-Jet Protocol works with most popular browsers which have web 3 enabled wallet functionality including Chrome, Brave, Firefox and Edge.&#x20;
 
-**Popular Solana operable wallets to use with Jet Protocol:**
 
-****[Phantom](https://phantom.app/)
+Jet Protocol works with most popular browsers which have web3 enabled wallet functionality including Chrome, Brave, Firefox and Edge.&#x20;
 
-[Solflare](https://solflare.com/)
+For more details regarding setting up compatible wallet visit [Wallets](wallets.md).
 
-[Math Wallet](https://mathwallet.org/en-us/)
-
-**Setting Up Your Wallet**
-
-Before you are able to begin using Jet Protocol, be sure to setup and fund your wallet of choice from above. It is strongly recommend to use the securest method possible to store and access your private keys, mnemonic seed phrase and credentials.&#x20;
-
-Aside from the assets you use to borrow and lend on Jet Protocol, your wallet should have a small amount of SOL deposited to it to pay for transaction fees.&#x20;
+\
+For more how-to guides, continue reading the following pages.&#x20;
