@@ -27,10 +27,10 @@
     * [Create a Margin Account and Deposit USDC](support/get-started/devnet-fixed-term-application-guide/create-a-margin-account-and-deposit-usdc.md)
     * [Fixed Term Actions - How to Borrow and Lend](support/get-started/devnet-fixed-term-application-guide/fixed-term-actions-how-to-borrow-and-lend.md)
     * [Examples of Borrow and Lend Orders](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/README.md)
-      * [How To: Offer a loan](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-offer-a-loan.md)
-      * [Lend Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/lend-now.md)
-      * [Borrow Request](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/borrow-request.md)
-      * [Borrow Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/borrow-now.md)
+      * [How To: Offer a Loan](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-offer-a-loan.md)
+      * [How To: Lend Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-lend-now.md)
+      * [How To: Request a Borrow](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-request-a-borrow.md)
+      * [How To: Borrow Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-borrow-now.md)
   * [Wallets](support/get-started/wallets.md)
 
 ## FAQ

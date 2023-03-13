@@ -4,7 +4,7 @@ The following subpages will cover over an example of each type of borrow and len
 
 ****
 
-Note that the state of the orderbooks not be the same when you use the application. We encourage you to interact with your orders from multiple margin accounts while testing; get creative, try different combinations of actions, amounts, and rates, and push the boundaries of the application.
+Note that the state of the orderbook may not be the same when you use the application. You are encouraged to interact with your orders from multiple margin accounts while testing; get creative, try different combinations of actions, amounts, and rates, and push the boundaries of the application.
 
 
 
