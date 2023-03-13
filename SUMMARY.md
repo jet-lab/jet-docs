@@ -26,6 +26,11 @@
     * [How to Airdrop SOL and USDC to Test the Application](support/get-started/devnet-fixed-term-application-guide/how-to-airdrop-sol-and-usdc-to-test-the-application.md)
     * [Create a Margin Account and Deposit USDC](support/get-started/devnet-fixed-term-application-guide/create-a-margin-account-and-deposit-usdc.md)
     * [Fixed Term Actions - How to Borrow and Lend](support/get-started/devnet-fixed-term-application-guide/fixed-term-actions-how-to-borrow-and-lend.md)
+    * [Examples of Borrow and Lend Orders](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/README.md)
+      * [How To: Offer a loan](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-offer-a-loan.md)
+      * [Lend Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/lend-now.md)
+      * [Borrow Request](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/borrow-request.md)
+      * [Borrow Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/borrow-now.md)
   * [Wallets](support/get-started/wallets.md)
 
 ## FAQ

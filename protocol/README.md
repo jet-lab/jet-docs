@@ -6,7 +6,7 @@ description: Information and documentation on how to interact with Jet Protocol
 
 Jet Protocol is best conceived as a constellation of products centered around the margin program.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 Jet Protocol core infrastructure includes:
 
