@@ -29,7 +29,7 @@
     * [Examples of Borrow and Lend Orders](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/README.md)
       * [How To: Offer a Loan](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-offer-a-loan.md)
       * [How To: Lend Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-lend-now.md)
-      * [How To: Request a Borrow](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-request-a-borrow.md)
+      * [How To: Request a Loan](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-request-a-loan.md)
       * [How To: Borrow Now](support/get-started/devnet-fixed-term-application-guide/examples-of-borrow-and-lend-orders/how-to-borrow-now.md)
   * [Wallets](support/get-started/wallets.md)
 

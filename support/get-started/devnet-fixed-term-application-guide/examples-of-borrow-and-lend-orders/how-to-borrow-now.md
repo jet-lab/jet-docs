@@ -1,8 +1,5 @@
 ---
-description: >-
-  Don't follow this example exactly - rather, use it as a starting guide. Get
-  creative, try different combinations of actions and amounts; interact with
-  your orders from separate margin accounts, etc.
+description: How to interact with the borrowing side of Jet Fixed Term
 ---
 
 # How To: Borrow Now
@@ -11,7 +8,7 @@ description: >-
 
 To begin, enter the fixed term application on the lending side by clicking "Fixed Borrow" on the menu bar on top of the application. Then select the "Borrow Now" function in the order panel.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Examine the Current State of the Orderbook**
 
@@ -19,9 +16,9 @@ For testing purposes, the 2 minute market tenor is the easiest to use. You can s
 
 Imagine you want to borrow 125,000 USDC as soon as possible, at any rate available. Begin by navigating to the "Borrow Now" tab, where you will see this chart:
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-Now, hover over the chart at a value of 125,000 cumulative USDC requests on the x-axis and you will see that the overall average interest for a borrow of this size this should be around 1.43%. A "borrow now" order will always take the loans offers on the book with the lowest rate first. The leftmost part of the chart with the lower rates is the "top of the orderbook."
+Now, hover over the chart at a value of 125,000 cumulative USDC requests on the x-axis and you will see that the overall average interest for a borrow of this size this should be around 1.43%. A "borrow now" order will always take the loans offers on the book with the lowest rate first. The leftmost part of the chart with the lower rates is the "top of the orderbook" from the perspective of a borrower.
 
 <figure><img src="../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,11 +36,11 @@ Type in 125,000 in the "Borrow Now" order panel. You will see some corresponding
 
 **After Placing the Order**
 
-Once satisfied with the order setup, go on to approve the transaction. You can see our borrow in the "Open Borrows" table just below the chart, along with the time of creation, the time of maturity, the total balance, and the rate:&#x20;
+Once satisfied with the order setup, go on to approve the transaction. You can see our borrow in the "Open Borrows" table just below the chart, along with the time of creation, time of maturity, total balance, and rate:&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-You can also observe the chart to see the effect that taking the 125,000 loan had on the orderbook. 125,000 USDC has been removed from the x-axis, and the "borrow now" transaction borrowed from the leftmost, cheapest, top of the orderbook; leaving the loan offers to the right of the order; the deeper part of the orderbook.&#x20;
+You can also observe the chart to see the effect that taking the 125,000 USDC loan had on the orderbook. 125,000 USDC has been removed from the x-axis, and the "borrow now" transaction borrowed from the leftmost, cheapest, top of the orderbook; leaving the loan offers to the right of the order; the deeper part of the orderbook.&#x20;
 
 After the borrow is complete, the cheapest loan offers on the book are now offering a rate of 2.5% and there appears to be approximately 350,000 USDC worth of liquidity offered at that rate, as observed on the horizontal section of the line up to the inflection point at 350k on the x-axis:
 
