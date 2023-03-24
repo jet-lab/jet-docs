@@ -18,13 +18,15 @@ Imagine you want to borrow 125,000 USDC as soon as possible, at any rate availab
 
 <figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-Now, hover over the chart at a value of 125,000 cumulative USDC requests on the x-axis and you will see that the overall average interest for a borrow of this size this should be around 1.43%. A "borrow now" order will always take the loans offers on the book with the lowest rate first. The leftmost part of the chart with the lower rates is the "top of the orderbook" from the perspective of a borrower.
+As a borrower, you want to borrow at the lowest rates you can get. The leftmost part of the chart with the lowest rates on the book is the "top of the orderbook" from the perspective of a borrower. A "borrow now" order will always take the cheap loan offers on the top of the orderbook first.
+
+Now, hover over the chart at a value of 125,000 USDC on the x-axis. When you borrow that much USDC, you will fulfill a variety of lend offers requests at various rates. The average interest rate for your borrow would be 1.43%:
 
 <figure><img src="../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-**Borrow Setup**
+**Borrow Now Order Setup**
 
-Type in 125,000 in the "Borrow Now" order panel. You will see some corresponding information about our borrow before submitting the transaction, including:
+Type in 125,000 in the "Borrow Now" order panel. You will see some corresponding information about the borrow before submitting the transaction, including:
 
 * The **repayment date**, which the borrower will need to repay by else the liquidator may repay the debt using their collateral (this assumes that autoroll is not on; note that autoroll is disabled for the initial application release).
 * The **total repayment amount** equal to the principle plus interest.
@@ -38,17 +40,17 @@ Type in 125,000 in the "Borrow Now" order panel. You will see some corresponding
 
 Once satisfied with the order setup, go on to approve the transaction. You can see our borrow in the "Open Borrows" table just below the chart, along with the time of creation, time of maturity, total balance, and rate:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-You can also observe the chart to see the effect that taking the 125,000 USDC loan had on the orderbook. 125,000 USDC has been removed from the x-axis, and the "borrow now" transaction borrowed from the leftmost, cheapest, top of the orderbook; leaving the loan offers to the right of the order; the deeper part of the orderbook.&#x20;
+You can also observe the chart afterwards to see the effect that borrowing 125,000 USDC had on the orderbook. 125,000 USDC has been removed from the x-axis, and the "borrow now" transaction borrowed from the lowest rates on top of the orderbook / the left of the chart; leaving the higher-rate borrow requests to the right of the order in the deeper part of the orderbook (which is now higher up in the books and closer to being borrowed if another borrower came along with a "borrow now" order).
 
-After the borrow is complete, the cheapest loan offers on the book are now offering a rate of 2.5% and there appears to be approximately 350,000 USDC worth of liquidity offered at that rate, as observed on the horizontal section of the line up to the inflection point at 350k on the x-axis:
+After the borrow order is complete, the loan offers still on the book are now offering around 350,000 USDC starting at a rate of 2.5% as indicated by a horizontal line, with additional offers at higher rates as indicated by the inflection point(s). There are around 430,000 USDC in total in loan offers available.
 
 <figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 **Repaying the Loan**
 
-Once you borrow, a repayment option appears above the chart, highlighted in the screenshot below. You may pay the balance due at any point after the borrow. If you do not repay by the time that the loan has matured, your collateral will be liquidated to repay the loan as close to the maturity date as possible.&#x20;
+Once you borrow, a repayment option appears above the chart, highlighted in the screenshot below. You may pay the balance due at any point after the borrow. If you do not repay by the time that the loan has matured, your collateral will be liquidated to repay the loan.
 
 In the future, an "autoroll" option will be available, allowing a borrower to renew the loan indefinitely as long as their account remains sufficiently collateralized.&#x20;
 

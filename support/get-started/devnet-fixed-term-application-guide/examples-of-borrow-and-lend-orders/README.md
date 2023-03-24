@@ -12,8 +12,8 @@ The following subpages will cover over an example of each type of borrow and len
 [how-to-lend-now.md](how-to-lend-now.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-request-a-loan.md" %}
-[how-to-request-a-loan.md](how-to-request-a-loan.md)
+{% content-ref url="how-to-request-a-borrow.md" %}
+[how-to-request-a-borrow.md](how-to-request-a-borrow.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-borrow-now.md" %}
