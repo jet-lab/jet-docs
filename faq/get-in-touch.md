@@ -14,7 +14,7 @@ description: >-
 
 Telegram: [https://t.me/jetprotocol](https://t.me/jetprotocol)
 
-Discord: [https://discord.gg/dU3FYDth](https://discord.gg/dU3FYDth)
+Discord: [https://discord.gg/BsF3cEbdV9](https://discord.gg/BsF3cEbdV9)
 
 🐦 Twitter — [https://twitter.com/JetProtocol](https://twitter.com/JetProtocol) 🐦&#x20;
 
