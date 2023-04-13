@@ -36,7 +36,7 @@ $$
 K_r = \sum_{l \in \cal{L}} { P_l \over f_l }
 $$
 
-​The minimum equity condition is captured implicitly through the relationship between these quantities. A margin account is said to be **healthy** if the collateral weight- adjusted equity equals or exceeds the required collateral. That is, healthy accounts satisfy
+​The minimum equity condition is captured implicitly through the relationship between these quantities. A margin account is said to be **healthy** if the collateral-weight-adjusted-equity equals or exceeds the required collateral. That is, healthy accounts satisfy
 
 $$
 K_w - L \geq K_r
