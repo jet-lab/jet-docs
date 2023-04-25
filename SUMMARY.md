@@ -38,7 +38,6 @@
 * [❔ FAQ](faq/faq.md)
 * [📚 Terminology](faq/terminology/README.md)
   * [Pools Borrowing and Lending Glossary](faq/terminology/pools-borrowing-and-lending-glossary.md)
-  * [Fixed Term Glossary](faq/terminology/fixed-term-glossary.md)
 * [⚠ Disclaimers and Risks](faq/disclaimers-and-risks.md)
 * [🤝 Getting Support](faq/getting-support.md)
 * [🔗 Press Kit](faq/design-assets.md)
