@@ -4,6 +4,6 @@ Helpful glossary terms are included as tooltips that appear when hovering over t
 
 Those tooltips are also included in this section:
 
-{% content-ref url="pools-borrowing-and-lending-glossary.md" %}
-[pools-borrowing-and-lending-glossary.md](pools-borrowing-and-lending-glossary.md)
+{% content-ref url="terminology/pools-borrowing-and-lending-glossary.md" %}
+[pools-borrowing-and-lending-glossary.md](terminology/pools-borrowing-and-lending-glossary.md)
 {% endcontent-ref %}

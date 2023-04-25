@@ -36,7 +36,7 @@
 ## FAQ
 
 * [❔ FAQ](faq/faq.md)
-* [📚 Terminology](faq/terminology/README.md)
+* [📚 Terminology](faq/terminology.md)
   * [Pools Borrowing and Lending Glossary](faq/terminology/pools-borrowing-and-lending-glossary.md)
 * [⚠ Disclaimers and Risks](faq/disclaimers-and-risks.md)
 * [🤝 Getting Support](faq/getting-support.md)

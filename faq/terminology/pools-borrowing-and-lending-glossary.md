@@ -18,7 +18,7 @@ description: Helpful terms for the Pools application
 
 **Borrow interest rate** - The instantaneous interest rate being paid by borrowers. This rate is expressed in annualized form, does not reflect the effects of compounding, and is inclusive of any protocol fees that may be in place. The rate changes as the utilization ratio of the borrowed asset changes.
 
-**Maximum LTV** - The maximum ratio of a loan allowed by the Protocol. The Loan-to-value ratio (LTV), is a measure of risk used by the Jet Protocol when deciding how large of a loan to approve. Your LTV represents the relationship between the size of the loan you take out and the value of the property that secures the loan. See also, Collateralisation Ratio.
+**Maximum LTV** - The maximum ratio of a loan allowed by the Protocol. The Loan-to-value ratio (LTV), is a measure of risk used by the Jet Protocol when deciding how large of a loan to approve. Your LTV represents the relationship between the size of the loan you take out and the value of the property that secures the loan.&#x20;
 
 **Utilization Ratio** - The fraction of a reserve’s assets that have been borrowed. For example, if the USDC reserve is worth $100,000, and the amount owed to the reserve by borrowers is $65,000, then the utilization ratio is 65%.There would be $35,000 available for further borrowing.
 

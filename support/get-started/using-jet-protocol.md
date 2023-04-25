@@ -65,7 +65,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
 
 Optional: Create more Margin Account\
 \
-If you find a need to keep track of different portfolio, do create a different Margin Account. Each Margin Account keeps its Risk Level. For more information regarding Risk Level, click [here](../../faq/terminology/).
+If you find a need to keep track of different portfolio, do create a different Margin Account. Each Margin Account keeps its Risk Level. For more information regarding Risk Level, click [here](../../faq/terminology.md).
 
 <div>
 
