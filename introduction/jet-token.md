@@ -14,7 +14,7 @@ CoinMarketCap: [https://coinmarketcap.com/currencies/jet-protocol/](https://coin
 
 Defi Llama TVL tracker: [https://defillama.com/protocol/jet](https://defillama.com/protocol/jet)
 
-****
+
 
 **Where can I read the tokenomics?**
 

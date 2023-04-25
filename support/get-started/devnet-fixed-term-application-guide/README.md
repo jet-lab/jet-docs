@@ -18,7 +18,7 @@ If you find bugs, have UX/UI suggestions, general questions, etc, please visit t
 [how-to-connect-to-the-devnet-application-using-phantom-wallet.md](how-to-connect-to-the-devnet-application-using-phantom-wallet.md)
 {% endcontent-ref %}
 
-****
+
 
 **For airdropping devnet SOL and USDC to use with the application:**
 
@@ -26,7 +26,7 @@ If you find bugs, have UX/UI suggestions, general questions, etc, please visit t
 [how-to-airdrop-sol-and-usdc-to-test-the-application.md](how-to-airdrop-sol-and-usdc-to-test-the-application.md)
 {% endcontent-ref %}
 
-****
+
 
 **To create a margin account and deposit USDC:**
 

@@ -23,7 +23,7 @@ Jet Protocol is governed by the [JetDAO](https://jetdao.fi/). The [JetDAO](https
 {% endcontent-ref %}
 
 * Jet's [**developer documentation**](https://jet-lab.github.io/jet-v2/) documents the Jet on-chain programs in detail.
-* The [**Litepaper**](https://uploads-ssl.webflow.com/620e4761998cce492a7c9c8d/62ebf0ff41fac7359bfb2964\_litepaper-v0.0.1.pdf) **** introduces and describes the initially proposed products, and can be thought of as a high-level roadmap.
+* The [**Litepaper**](https://uploads-ssl.webflow.com/620e4761998cce492a7c9c8d/62ebf0ff41fac7359bfb2964\_litepaper-v0.0.1.pdf) introduces and describes the initially proposed products, and can be thought of as a high-level roadmap.
 
 
 

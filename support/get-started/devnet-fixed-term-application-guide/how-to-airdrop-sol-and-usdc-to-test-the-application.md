@@ -22,4 +22,3 @@ Next, airdrop yourself some USDC in the same manner – choose “USDC” under 
 
 The next step is to[ create a margin account and deposit some USDC or SOL to test with.](create-a-margin-account-and-deposit-usdc.md)
 
-****

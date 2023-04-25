@@ -6,7 +6,7 @@ As always, fee parameters are not static, and can be changed via governance as t
 
 **Solana Rent Fee**
 
-When you open your account on Jet, rent is charged by Solana which can be fully refunded in the future when you close all your account obligations on Jet. This is true for all protocols which allocate space per user on-chain.
+When you open your account on Jet, rent is charged by the Solana blockchain for the storage of that data. The rent fee can be fully refunded in the future when you close all your account obligations on Jet. This is true for all protocols which allocate space per user on-chain.
 
 **Solana Transaction Fee**
 

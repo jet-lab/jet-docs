@@ -21,7 +21,7 @@ description: Actions in which you can interact with the Fixed Term market
 
 **Note:** Maker orders (offer loan / borrow request) are “maker” orders by default, but if there is  existing liquidity on the books that meet the conditions of the posting, then part of all of the order will actually be a “taker” order for the parts that intersect.
 
-****
+
 
 **Also Note:** For the purposes of testing, if you want to match your own order, you will need to be sure to post the maker order to the top of the orderbook; or to take enough liquidity from the book that you reach your order in the taker order. For example, if you post a borrow request for 100,000 USDC at a minimum of 5%, when you go to “lend now” in a separate margin account with 100,000 USDC, that “lend now” order will by default take the lowest interest rates on the book.&#x20;
 

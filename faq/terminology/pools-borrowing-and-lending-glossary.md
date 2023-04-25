@@ -1,13 +1,8 @@
 ---
-description: >-
-  The Jet Protocol - Jet Protocol, or the Protocol, is a decentralized,
-  non-custodial protocol that uses a collection of smart contracts that provides
-  lending and borrowing functions.
+description: Helpful terms for the Pools application
 ---
 
-# 📚 Terminology
-
-### Lending and Borrowing Definitions
+# Pools Borrowing and Lending Glossary
 
 **Asset -** Refers to the digital token, cryptocurrency, or digital asset used in the protocol. For example, SOL or USDC.
 
@@ -34,10 +29,3 @@ description: >-
 **Liquidation** - The process of selling some of a borrower’s collateral to a third party, called a liquidator. The liquidator pays for the collateral using the token in which the debt is denominated, thereby (partially) repaying the borrower’s debt. The sale price is determined by an oracle, and is intended to be a fair market price. An incentive fee is paid to the liquidator, see Liquidation Premium.
 
 **Default** -  The failure to repay a debt, including interest or principal, on a loan or security. A default can occur when a borrower is unable to make timely payments, misses payments, or avoids or stops making payments.\
-
-
-### Fixed-Term Definitions
-
-**Loan Tenor** - The period given by the lender to the borrower in paying installments.
-
-**Deposit Tenor** - The period of time used in deposit investments starting from one day, 30 days, 90 days, 180 days.

@@ -25,13 +25,13 @@ description: A step-by-step guide for first-timers accessing the app on mainnet 
     Fund wallet by moving SOL to wallet through depositing or sending SOL to your wallet address.\
 
 3.  **Connect your wallet**\
-    ****\
-    ****To begin using Jet Protocol please visit [app.jetprotocol.io](https://app.jetprotocol.io).\
+    \
+    To begin using Jet Protocol please visit [app.jetprotocol.io](https://app.jetprotocol.io).\
 
 
     Please make sure you are on the exact URL described above. Any variation of the URL is not affiliated with Jet Protocol and could be a phishing/spoofing attempt to steal your funds. \
     \
-    ****Clicking the "connect wallet" or "connect" button will allow you to select the type of wallet you're using. As mentioned in previous sections it is recommended you setup your wallet before taking this step and funding it.&#x20;
+    Clicking the "connect wallet" or "connect" button will allow you to select the type of wallet you're using. As mentioned in previous sections it is recommended you setup your wallet before taking this step and funding it.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-03-02 at 12.25.10 PM (1).png" alt=""><figcaption><p>"Connect Wallet" buttons</p></figcaption></figure>
 
@@ -65,7 +65,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
 
 Optional: Create more Margin Account\
 \
-If you find a need to keep track of different portfolio, do create a different Margin Account. Each Margin Account keeps its Risk Level. For more information regarding Risk Level, click [here](../../faq/terminology.md).
+If you find a need to keep track of different portfolio, do create a different Margin Account. Each Margin Account keeps its Risk Level. For more information regarding Risk Level, click [here](../../faq/terminology/).
 
 <div>
 

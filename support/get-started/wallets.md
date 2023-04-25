@@ -2,7 +2,7 @@
 
 To connect to Jet Protocol you will need a compatible wallet, Jet Protocol currently supports:
 
-1. ****[Phantom](https://phantom.app/)
+1. [Phantom](https://phantom.app/)
 2. [Brave](https://brave.com/wallet/)
 3. [Solflare](https://solflare.com/)
 4. [Solong](https://solongwallet.io/)
