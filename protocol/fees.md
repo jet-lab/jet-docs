@@ -20,4 +20,11 @@ A 3% liquidation fee is applied to the portion of collateral that was liquidated
 
 For collateral and loan accounts earning interest from pools, interest accrues and gets continuously compounded to your respective accounts. 20% of interest earned is redirected to the DAO.
 
+**Fixed Term Fees**
+
+An **origination fee** of \_\_\_\_\_\_\_\_\_\_ is taken from the amount borrowed by a&#x20;
+
+* In the event of borrower liquidation, the liquidator will attempt to pay back the borrowed funds with funds of the same token type in the borrower's margin account. If the assets are available to pay down the debt at this time, the liquidator will NOT (double check with Norm) charge any fees to the user for this convenience (maybe a tiny one still to keep malicious liquidator attacks from happening?)
+* **\*\*(maybe just dupe content from the "fixed term" page?)**
+
 \

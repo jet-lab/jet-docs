@@ -8,6 +8,7 @@
   * [🪙 JET Token](introduction/jet-token.md)
 * [✈ Protocol](protocol/README.md)
   * [🛫 Jet Products](protocol/jet-products/README.md)
+    * [Fixed Rate](protocol/jet-products/fixed-rate.md)
     * [Margin Pool Interest Rates](protocol/jet-products/margin-pool-interest-rates.md)
     * [Margin Accounts Accounting](protocol/jet-products/margin-accounts-accounting.md)
   * [🛫 Fees](protocol/fees.md)
