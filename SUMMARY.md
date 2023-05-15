@@ -9,7 +9,7 @@
 * [✈ Protocol](protocol/README.md)
   * [🛫 Jet Products](protocol/jet-products/README.md)
     * [Margin Pool Interest Rates](protocol/jet-products/margin-pool-interest-rates.md)
-      * [Margin Accounts Accounting](protocol/jet-products/margin-pool-interest-rates/margin-accounts-accounting.md)
+    * [Margin Accounts Accounting](protocol/jet-products/margin-accounts-accounting.md)
   * [🛫 Fees](protocol/fees.md)
   * [🛫 Smart Contracts](protocol/smart-contracts.md)
   * [📋 Audit Reports](protocol/audit-reports.md)

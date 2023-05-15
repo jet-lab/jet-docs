@@ -25,8 +25,8 @@ In the following subsections, there are more details regarding margin accounting
 [margin-pool-interest-rates.md](jet-products/margin-pool-interest-rates.md)
 {% endcontent-ref %}
 
-{% content-ref url="jet-products/margin-pool-interest-rates/margin-accounts-accounting.md" %}
-[margin-accounts-accounting.md](jet-products/margin-pool-interest-rates/margin-accounts-accounting.md)
+{% content-ref url="jet-products/margin-accounts-accounting.md" %}
+[margin-accounts-accounting.md](jet-products/margin-accounts-accounting.md)
 {% endcontent-ref %}
 
 

@@ -6,7 +6,7 @@
 
 **Margin Accounts** - Flexible margin accounting and collateral system that allow users to lend and borrow from Margin Pools. (Also extendable to compose and integrate with other DeFi protocols with adapters)**.**&#x20;
 
-More information on accounting regarding Margin Account can be found on the ["Margin Accounts Accounting"](margin-pool-interest-rates/margin-accounts-accounting.md)[ ](broken-reference)page.&#x20;
+More information on accounting regarding Margin Account can be found on the ["Margin Accounts Accounting"](margin-accounts-accounting.md)[ ](broken-reference)page.&#x20;
 
 
 
