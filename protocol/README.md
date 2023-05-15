@@ -21,8 +21,8 @@ Other products are supported by connecting external protocols to the margin prog
 
 In the following subsections, there are more details regarding margin accounting, interest rates, and fees:
 
-{% content-ref url="jet-products/margin-pool-interest-rates/" %}
-[margin-pool-interest-rates](jet-products/margin-pool-interest-rates/)
+{% content-ref url="jet-products/margin-pool-interest-rates.md" %}
+[margin-pool-interest-rates.md](jet-products/margin-pool-interest-rates.md)
 {% endcontent-ref %}
 
 {% content-ref url="jet-products/margin-pool-interest-rates/margin-accounts-accounting.md" %}

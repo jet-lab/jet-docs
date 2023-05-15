@@ -1,6 +1,6 @@
 # 🛫 Jet Products
 
-**Margin Pools** - Jet's pool-based model for lending and borrowing with JetDAO-approved assets. More information on how interest rates are calculated for Margin Pools can be found on the ["Interest Rates on Margin Pools"](margin-pool-interest-rates/) page.&#x20;
+**Margin Pools** - Jet's pool-based model for lending and borrowing with JetDAO-approved assets. More information on how interest rates are calculated for Margin Pools can be found on the ["Interest Rates on Margin Pools"](margin-pool-interest-rates.md) page.&#x20;
 
 
 
