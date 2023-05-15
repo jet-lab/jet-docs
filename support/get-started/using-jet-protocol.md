@@ -53,7 +53,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
    \
    Now it’s time to create a margin account! Click the button to do so, and confirm the account creation in the modal that pops up. Then, approve the transactions in your wallet.
 
-<div>
+<div align="center">
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-03-02 at 3.43.27 PM.png" alt=""><figcaption><p>Create first margin account</p></figcaption></figure>
 

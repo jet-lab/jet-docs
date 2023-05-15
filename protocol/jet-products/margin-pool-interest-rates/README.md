@@ -8,7 +8,7 @@ As the utilization ratio increases, the interest rate also increases. The intere
 
 <table><thead><tr><th>Parameters</th><th>Values</th><th data-hidden></th></tr></thead><tbody><tr><td>First optimal utilisation point</td><td>85%</td><td></td></tr><tr><td>Second optimal utilisation point</td><td>95%</td><td></td></tr><tr><td>Starting interest rate</td><td>1%</td><td></td></tr><tr><td>Interest rate at first optimal point</td><td>15%</td><td></td></tr><tr><td>Interest rate at second optimal point</td><td>150%</td><td></td></tr><tr><td>Maximum interest rate</td><td>200%</td><td></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Jet's Tighter Interest Rate Spreads**&#x20;
 
