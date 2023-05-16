@@ -7,6 +7,7 @@
   * [✔ JetDAO - Governance](https://docs.jetdao.fi/about/jet-governance-process)
   * [🪙 JET Token](introduction/jet-token.md)
 * [✈ Protocol](protocol/README.md)
+  * [Liquidation](protocol/liquidation.md)
   * [🛫 Jet Products](protocol/jet-products/README.md)
     * [Fixed Rate](protocol/jet-products/fixed-rate.md)
     * [Margin Pool Interest Rates](protocol/jet-products/margin-pool-interest-rates.md)
