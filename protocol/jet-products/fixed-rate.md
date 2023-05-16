@@ -45,7 +45,7 @@ To support long-term lenders and borrowers the fixed rate program provides a fac
 **Fees**
 
 * An **origination fee** of 50 basis points annualized is added to the amount borrowed.
-* In the event of borrower liquidation, the liquidator will attempt to pay back the borrowed funds with funds of the same token type in the borrower's margin account. If the assets are available to pay down the debt at this time, the liquidator will NOT charge any fees to the user for this convenience.&#x20;
+* In the event of borrower liquidation, the liquidator will attempt to pay back the borrowed funds with funds of the same token type in the borrower's margin account. If the assets are available to pay down the debt at this time, the liquidator will NOT charge any fees to the user for this convenience. [See the Liquidation page for more details](../liquidation.md).
 
 
 

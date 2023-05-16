@@ -98,4 +98,4 @@ $$
 {\rm available\ collateral} = (K_w - L) - K_r
 $$
 
-​Available collateral is a USD quantity that expresses how close to liquidation a margin account is. The liquidation threshold lies at zero available collateral.
+​Available collateral is a USD quantity that expresses how close to liquidation a margin account is. The liquidation threshold lies at zero available collateral. [See the liquidation page for further details](../liquidation.md).

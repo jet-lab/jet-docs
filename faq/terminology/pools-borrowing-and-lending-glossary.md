@@ -26,6 +26,6 @@ description: Helpful terms for the Pools application
 
 **Liquidation Premium** - Additional collateral is delivered to liquidators who repay the debt of accounts that have fallen below the minimum collateralisation ratio. The dollar value of this additional collateral is equal to the Liquidation Premium times the dollar value of the repaid debt. The additional collateral is paid from the account of the user being liquidated.
 
-**Liquidation** - The process of selling some of a borrower’s collateral to a third party, called a liquidator. The liquidator pays for the collateral using the token in which the debt is denominated, thereby (partially) repaying the borrower’s debt. The sale price is determined by an oracle, and is intended to be a fair market price. An incentive fee is paid to the liquidator, see Liquidation Premium.
+**Liquidation** - The process of selling some of a borrower’s collateral to a third party, called a liquidator. The liquidator pays for the collateral using the token in which the debt is denominated, thereby (partially) repaying the borrower’s debt. The sale price is determined by an oracle, and is intended to be a fair market price. An incentive fee of 3% is paid to the liquidator. [For more details see the Liquidation page](../../protocol/liquidation.md).
 
 **Default** -  The failure to repay a debt, including interest or principal, on a loan or security. A default can occur when a borrower is unable to make timely payments, misses payments, or avoids or stops making payments.\
