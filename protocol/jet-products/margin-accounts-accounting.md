@@ -74,7 +74,7 @@ $$
 If $$K_w$$​ is zero the account risk is zero if there are no liabilities, or infinity if there are.
 {% endhint %}
 
-The account risk indicator is zero for an account with no liabilities, and increases to one at the liquidation threshold.
+The account risk indicator is zero for an account with no liabilities, and increases to **one at the liquidation threshold**.
 
 The app will not allow a user to put their margin account into an unhealthy state or into a state very close to liquidation. This guard is called the **setup check**. The app only allows a user to take an action that increases the risk indicator for their account if the account would still be healthy with double the required collateral after the action is completed.
 
