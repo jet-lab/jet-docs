@@ -1,6 +1,6 @@
 # Risk Indicator
 
-The risk indicator, or risk level, is displayed on the application UI in the account snapshot and is highlighted in the screenshot below:
+The **risk indicator**, or **risk level** of a margin account, is displayed on the application UI in the account snapshot and is highlighted in the screenshot below:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
