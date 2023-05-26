@@ -3,7 +3,6 @@
 * [🏠 Welcome](README.md)
 * [☀ Introduction](introduction/README.md)
   * [❤ Community](introduction/community.md)
-  * [📄 Litepaper](https://uploads-ssl.webflow.com/620e4761998cce492a7c9c8d/62ebf0ff41fac7359bfb2964\_litepaper-v0.0.1.pdf)
   * [✔ JetDAO - Governance](https://docs.jetdao.fi/about/jet-governance-process)
   * [🪙 JET Token](introduction/jet-token.md)
 * [✈ Protocol](protocol/README.md)
