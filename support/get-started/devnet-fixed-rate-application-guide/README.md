@@ -1,10 +1,10 @@
 ---
 description: >-
-  A step-by-step guide to accessing and using the version of Jet's Fixed Term
+  A step-by-step guide to accessing and using the version of Jet's Fixed Rate
   application
 ---
 
-# Devnet Fixed Term Application Guide
+# Devnet Fixed Rate Application Guide
 
 The following subpages contain guides to understanding and using the fixed term application in its current form on Devnet - please be aware real funds with real value cannot be used on Devnet.
 
@@ -37,6 +37,6 @@ If you find bugs, have UX/UI suggestions, general questions, etc, please visit t
 \
 **Descriptions of the borrow and lend actions you can take in the Fixed Term application:**
 
-{% content-ref url="fixed-term-actions-how-to-borrow-and-lend.md" %}
-[fixed-term-actions-how-to-borrow-and-lend.md](fixed-term-actions-how-to-borrow-and-lend.md)
+{% content-ref url="fixed-rate-actions-how-to-borrow-and-lend.md" %}
+[fixed-rate-actions-how-to-borrow-and-lend.md](fixed-rate-actions-how-to-borrow-and-lend.md)
 {% endcontent-ref %}

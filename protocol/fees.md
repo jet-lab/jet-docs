@@ -1,4 +1,4 @@
-# Fees
+# 🛫 Fees
 
 As always, fee parameters are not static, and can be changed via governance as the protocol’s performance and health is evaluated on a rolling basis.&#x20;
 

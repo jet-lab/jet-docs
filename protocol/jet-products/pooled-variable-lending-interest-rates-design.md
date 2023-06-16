@@ -1,4 +1,10 @@
-# Margin Pool Interest Rates
+# Pooled/Variable Lending Interest Rates Design
+
+**See also: Pooled Lending Concepts and Terms:**
+
+{% content-ref url="../../faq/glossary/pools-variable-lending-concepts.md" %}
+[pools-variable-lending-concepts.md](../../faq/glossary/pools-variable-lending-concepts.md)
+{% endcontent-ref %}
 
 **Utilization Ratio Determines Interest Rates**
 
@@ -17,6 +23,8 @@ The **interest rate spread** is the difference between the lending and borrowing
 The Jet interest rate curve was designed to operate at a higher utilization ratio than the other protocols. As a result, Jet offers the tightest interest rate spreads.
 
 **On average, the platform with tighter spreads offers better lending and borrowing rates. Users of Jet Protocol experience tightest spreads, since the borrowers are paying less in interest, and the lenders are receiving more.**
+
+
 
 **How Jet Addresses Liquidity Risk**
 

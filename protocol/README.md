@@ -21,14 +21,16 @@ Other products are supported by connecting external protocols to the margin prog
 
 In the following subsections, there are more details regarding margin accounting, interest rates, and fees:
 
-{% content-ref url="jet-products/margin-pool-interest-rates.md" %}
-[margin-pool-interest-rates.md](jet-products/margin-pool-interest-rates.md)
+{% content-ref url="jet-products/pooled-variable-lending-interest-rates-design.md" %}
+[pooled-variable-lending-interest-rates-design.md](jet-products/pooled-variable-lending-interest-rates-design.md)
 {% endcontent-ref %}
 
-{% content-ref url="jet-products/margin-accounts-accounting.md" %}
-[margin-accounts-accounting.md](jet-products/margin-accounts-accounting.md)
+{% content-ref url="jet-products/margin-accounts-and-collateralization-accounting.md" %}
+[margin-accounts-and-collateralization-accounting.md](jet-products/margin-accounts-and-collateralization-accounting.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="jet-products/fixed-rate.md" %}
+[fixed-rate.md](jet-products/fixed-rate.md)
+{% endcontent-ref %}
 
 This technical documentation will be evolving with the code over the coming months. If you have specific questions left unanswered, post on the forum here: [https://forum.jetprotocol.io/c/support/13](https://forum.jetprotocol.io/c/support/13)&#x20;

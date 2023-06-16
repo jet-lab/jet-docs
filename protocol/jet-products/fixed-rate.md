@@ -1,5 +1,11 @@
 # Fixed Rate
 
+**See also: Fixed Rate Concepts and Terms**
+
+{% content-ref url="../../faq/glossary/fixed-rate-concepts.md" %}
+[fixed-rate-concepts.md](../../faq/glossary/fixed-rate-concepts.md)
+{% endcontent-ref %}
+
 ### In Search Of Term Structure - The Fix&#x20;
 
 Jet's Fixed Term application allows users to lend and borrow assets with a fixed agreement in terms of interest rate and duration of a loan/borrow.&#x20;

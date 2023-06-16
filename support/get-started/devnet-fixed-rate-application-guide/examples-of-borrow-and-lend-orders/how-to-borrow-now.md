@@ -56,7 +56,7 @@ In the future, an "autoroll" option will be available, allowing a borrower to re
 
 When repaying the loan, you may click on the underlined value that is needed for repayment in order to easily load it into the input box. Then just click the "repay now" button and approve the transaction.
 
-<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's a borrow now order! Try placing orders for different amounts when the orderbook has different loan offers available. You can even change the state of the lend offers on the market yourself by creating loan offers from a different margin account.
 

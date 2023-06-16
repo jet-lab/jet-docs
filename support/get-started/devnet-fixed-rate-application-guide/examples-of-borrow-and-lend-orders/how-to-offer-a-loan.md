@@ -20,7 +20,7 @@ The line segments represent how much USDC liquidity is available at each rate. T
 
 By hovering over the rightmost end of the chart, you will see on the x-axis that value of cumulative USDC offers is around 515,400 USDC, at a rate of 3.09%. This means that if someone was to come borrow 515,400 USDC right now at whatever rate is available, they would borrow the entire amount at a total average interest rate of 3.09%.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 If you take a closer look at the top of the orderbook, on the leftmost side of the chart, you will see the current cheapest loan offers on the market. From this image here you can see that the lowest loan offer on the book has a rate of 1.5%:
 
@@ -47,7 +47,7 @@ Note the information relayed in the green outlined box, which includes:
 
 Once satisfied with the order setup, you can go on to approve the transaction. You will see the loan offer displayed in the "Loan Offers" table just below the chart. Note that you can also **cancel** the order here, and that if part of the order already matched with an existing borrow request on the book, then some of the "total qty" would be in the "filled qty" column. Additionally, the matched part would be found in the "Open Deposits" tab.
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can also see the effect that our loan offer has on the chart. At the leftmost part of the chart  (the top of the orderbook), a horizontal line segment has appeared at the top of the book representing the 50,000 USDC offer at 1%. You can hover over the line to examine the values:
 

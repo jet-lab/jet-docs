@@ -1,4 +1,14 @@
-# Margin Accounts Accounting
+# Margin Accounts and Collateralization Accounting
+
+**See also: Margin Accounting Concepts and Terms:**
+
+{% content-ref url="../../faq/glossary/margin-accounting-concepts.md" %}
+[margin-accounting-concepts.md](../../faq/glossary/margin-accounting-concepts.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../faq/glossary/pools-variable-lending-concepts.md" %}
+[pools-variable-lending-concepts.md](../../faq/glossary/pools-variable-lending-concepts.md)
+{% endcontent-ref %}
 
 A margin account a ledger within a ledger, keeping track of assets and liabilities that the user has accrued through their interaction with integrated products. It is via the margin account that a user's deposits as construed as collateral against which the user can borrow or take other risk positions. Margin accounts keep the protocol safe by providing a liquidation mechanism to cover debts when necessary.
 

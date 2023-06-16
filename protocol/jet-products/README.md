@@ -1,12 +1,12 @@
 # 🛫 Jet Products
 
-**Margin Pools:** Jet's pool-based model for lending and borrowing with JetDAO-approved assets. More information on how interest rates are calculated for Margin Pools can be found on the ["Interest Rates on Margin Pools"](margin-pool-interest-rates.md) page.&#x20;
+**Margin Pools:** Jet's pool-based model for lending and borrowing with JetDAO-approved assets. More information on how interest rates are calculated for Margin Pools can be found on the ["Interest Rates on Margin Pools"](pooled-variable-lending-interest-rates-design.md) page.&#x20;
 
 
 
 **Margin Accounts:** Flexible margin accounting and collateral system that allow users to lend and borrow from Margin Pools. (Also extendable to compose and integrate with other DeFi protocols with adapters)**.**&#x20;
 
-More information on accounting regarding Margin Account can be found on the ["Margin Accounts Accounting"](margin-accounts-accounting.md)[ ](broken-reference)page.&#x20;
+More information on accounting regarding Margin Account can be found on the ["Margin Accounts Accounting"](margin-accounts-and-collateralization-accounting.md)[ ](broken-reference)page.&#x20;
 
 
 
