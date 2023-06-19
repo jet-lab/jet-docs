@@ -8,7 +8,7 @@ description: How to interact with the lending side of Jet Fixed Term
 
 To begin, enter the fixed term application on the lending side by clicking "Fixed Lend" on the menu bar on top of the application. Then select the "Lend Now" function in the order panel.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Examine the Current State of the Orderbook**
 
@@ -34,13 +34,13 @@ Type in 72,000 in the "Lend Now" order panel. You will see some corresponding in
 * The **interest rate** of the loan (which may differ slightly from what was seen in the chart above because of rounding on the chart; this is the exact figure rounded to 3 decimal places).
 * The margin account's projected **risk indicator** after the transaction completes and the 125,000 USDC is borrowed.
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 **After Placing the Order**
 
 Once satisfied with the order setup, go on to approve the transaction. You can see our active lend in the "Open Deposits" table just below the chart, along with the time of creation, time of maturity,  total balance, and rate:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 You can also observe the chart afterwards to see the effect that lending the 72,000 USDC out to borrow requesters had on the orderbook. 72,000 USDC has been removed from the x-axis. The "lend now" transaction lent to the highest rates on top of the orderbook / the left of the chart; leaving the lower-rate borrow requests to the right of the order in the deeper part of the orderbook (which is now higher in the books if another lender came along with a "lend now" order).
 
@@ -54,7 +54,7 @@ After the borrower has repaid (or the loan has matured, and the liquidator liqui
 
 In the future, an "autoroll" option will be available, allowing a the loan to be renewed by a lender indefinitely as long as there is demand for all or part of that loan.
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Account Settlement**
 
@@ -62,7 +62,7 @@ After lending, your account must be settled before the lent tokens and interest 
 
 When your account needs to be settled, a prompt will appear above the chart in the same location as the claim button. Click the button and approve the transaction.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 That's an lend now order! Try placing orders for different amounts when the orderbook has different loan offers available. You can even change the state of the borrow requests on the market yourself by creating borrow request orders from a different margin account.
 

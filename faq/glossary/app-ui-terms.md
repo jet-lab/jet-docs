@@ -15,7 +15,7 @@ Below, the various terms in the **account snapshot** are defined. These definiti
 
 **Note** that values shown throughout the application UI are approximated and rounded from the actual values, which can be viewed in a block explorer and typically have many decimals.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Account Snapshot Terms:**_
 
@@ -41,7 +41,7 @@ _**Margin Account Creation Terms:**_
 
 Additionally, included are terms used in the hovering modal when first creating a margin account:
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 **Rent Fee:** When you open your account on Jet, rent is charged by the Solana blockchain for the storage of that data. The rent fee can be fully refunded in the future when you close all your account obligations on Jet. This is true for all protocols which allocate space per user on-chain.
 
@@ -51,7 +51,7 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 Below, the UI of the fixed rate has elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **Pools Terms:**
 
@@ -93,9 +93,9 @@ Below, the UI of the fixed rate has elements of the application marked and label
 
 Below, the UI of the fixed rate has the various elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Fixed Rate Terms:**
 

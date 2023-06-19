@@ -63,7 +63,7 @@ After the borrower has repaid (or the loan has matured, and the liquidator liqui
 
 In the future, an "autoroll" option will be available, allowing a the loan to be renewed by a lender indefinitely as long as there is demand for all or part of that loan.
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Account Settlement**
 
@@ -71,7 +71,7 @@ After lending, your account must be settled before the lent tokens and interest 
 
 When your account needs to be settled, a prompt will appear above the chart in the same location as the claim button. Click the button and approve the transaction.
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 That's an offer loan order! Try out placing orders at different rates and amounts, and see what happens when you match part or all of your order with a borrow request that already exists on the books!&#x20;
 
