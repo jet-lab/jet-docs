@@ -12,7 +12,7 @@
     * [Fixed Rate](protocol/jet-products/fixed-rate.md)
   * [Risk Indicator](protocol/risk-indicator.md)
   * [Liquidation](protocol/liquidation.md)
-  * [🛫 Fees](protocol/fees.md)
+  * [Fees](protocol/fees.md)
   * [Smart Contracts](protocol/smart-contracts.md)
 * [⚡ Integrations](integrations/README.md)
   * [Pyth Oracle](integrations/pyth-oracle.md)
