@@ -2,10 +2,10 @@
 
 ## **Jet Products**
 
-* Margin Pools&#x20;
+* [Margin Pools (Variable Borrowing and Lending)](https://app.jetprotocol.io/)
 * Margin Accounts
-* Margin Trading - Leverage Swaps
-* Fixed-Term Markets
+* [Margin Trading - Leverage Swaps](https://app.jetprotocol.io/swaps)
+* [Fixed Rate Borrowing and Lending](https://app.jetprotocol.io/fixed-lend) (orderbook-negotiated rates)
 * Airspaces (future release)
 * [JetGovern](https://govern.jetassociation.org/)
 
