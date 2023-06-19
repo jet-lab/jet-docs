@@ -2,7 +2,7 @@
 description: Actions in which you can interact with the Fixed Term market
 ---
 
-# Fixed Term Actions - How to Borrow and Lend
+# Fixed Rate Actions - How to Borrow and Lend
 
 ### **Maker/Taker Actions**
 

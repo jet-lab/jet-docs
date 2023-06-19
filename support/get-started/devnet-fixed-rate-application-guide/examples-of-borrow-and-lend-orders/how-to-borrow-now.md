@@ -8,7 +8,7 @@ description: How to interact with the borrowing side of Jet Fixed Term
 
 To begin, enter the fixed term application on the lending side by clicking "Fixed Borrow" on the menu bar on top of the application. Then select the "Borrow Now" function in the order panel.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Examine the Current State of the Orderbook**
 

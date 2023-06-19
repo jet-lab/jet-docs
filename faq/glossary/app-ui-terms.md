@@ -15,7 +15,7 @@ Below, the various terms in the **account snapshot** are defined. These definiti
 
 **Note** that values shown throughout the application UI are approximated and rounded from the actual values, which can be viewed in a block explorer and typically have many decimals.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 _**Account Snapshot Terms:**_
 
@@ -51,7 +51,7 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 Below, the UI of the fixed rate has elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 **Pools Terms:**
 
@@ -95,7 +95,7 @@ Below, the UI of the fixed rate has the various elements of the application mark
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Fixed Rate Terms:**
 
