@@ -2,8 +2,8 @@
 
 **See also: Pooled Lending Concepts and Terms:**
 
-{% content-ref url="../../faq/glossary/pools-variable-lending-concepts.md" %}
-[pools-variable-lending-concepts.md](../../faq/glossary/pools-variable-lending-concepts.md)
+{% content-ref url="../../support/app-and-product-terminology/pools-variable-lending-concepts.md" %}
+[pools-variable-lending-concepts.md](../../support/app-and-product-terminology/pools-variable-lending-concepts.md)
 {% endcontent-ref %}
 
 **Utilization Ratio Determines Interest Rates**

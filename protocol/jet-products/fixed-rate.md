@@ -2,8 +2,8 @@
 
 **See also: Fixed Rate Concepts and Terms**
 
-{% content-ref url="../../faq/glossary/fixed-rate-concepts.md" %}
-[fixed-rate-concepts.md](../../faq/glossary/fixed-rate-concepts.md)
+{% content-ref url="../../support/app-and-product-terminology/fixed-rate-concepts.md" %}
+[fixed-rate-concepts.md](../../support/app-and-product-terminology/fixed-rate-concepts.md)
 {% endcontent-ref %}
 
 ### In Search Of Term Structure - The Fix&#x20;

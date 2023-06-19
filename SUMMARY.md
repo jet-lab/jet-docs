@@ -34,16 +34,16 @@
       * [How To: Request a Loan](support/get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-request-a-loan.md)
       * [How To: Borrow Now](support/get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-borrow-now.md)
   * [Wallets](support/get-started/wallets.md)
+* [📚 App and Product Terminology](support/app-and-product-terminology/README.md)
+  * [App UI Terms](support/app-and-product-terminology/app-ui-terms.md)
+  * [Margin Accounting Concepts](support/app-and-product-terminology/margin-accounting-concepts.md)
+  * [Pools / Variable Lending Concepts](support/app-and-product-terminology/pools-variable-lending-concepts.md)
+  * [Leverage Swaps Concepts](support/app-and-product-terminology/leverage-swaps-concepts.md)
+  * [Fixed Rate Concepts](support/app-and-product-terminology/fixed-rate-concepts.md)
 
 ## FAQ
 
 * [❔ FAQ](faq/faq.md)
-* [📚 Glossary](faq/glossary/README.md)
-  * [App UI Terms](faq/glossary/app-ui-terms.md)
-  * [Margin Accounting Concepts](faq/glossary/margin-accounting-concepts.md)
-  * [Pools / Variable Lending Concepts](faq/glossary/pools-variable-lending-concepts.md)
-  * [Leverage Swaps Concepts](faq/glossary/leverage-swaps-concepts.md)
-  * [Fixed Rate Concepts](faq/glossary/fixed-rate-concepts.md)
 * [⚠ Disclaimers and Risks](faq/disclaimers-and-risks.md)
 * [🤝 Getting Support](faq/getting-support.md)
 * [🔗 Press Kit](faq/design-assets.md)
