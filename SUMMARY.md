@@ -14,10 +14,10 @@
   * [Liquidation](protocol/liquidation.md)
   * [🛫 Fees](protocol/fees.md)
   * [Smart Contracts](protocol/smart-contracts.md)
-  * [📋 Audit Reports](protocol/audit-reports.md)
 * [⚡ Integrations](integrations/README.md)
   * [Pyth Oracle](integrations/pyth-oracle.md)
   * [Sonar Watch](integrations/sonar-watch.md)
+* [📋 Audit Reports](audit-reports.md)
 
 ## USER GUIDE <a href="#support" id="support"></a>
 
