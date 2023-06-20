@@ -15,7 +15,7 @@ Below, the various terms in the **account snapshot** are defined. These definiti
 
 **Note** that values shown throughout the application UI are approximated and rounded from the actual values, which can be viewed in a block explorer and typically have many decimals.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 _**Account Snapshot Terms:**_
 
@@ -41,17 +41,23 @@ _**Margin Account Creation Terms:**_
 
 Additionally, included are terms used in the hovering modal when first creating a margin account:
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 **Rent Fee:** When you open your account on Jet, rent is charged by the Solana blockchain for the storage of that data. The rent fee can be fully refunded in the future when you close all your account obligations on Jet. This is true for all protocols which allocate space per user on-chain.
 
-**Lookup Table:** An on-chain account that stores commonly used addresses to enable transactions with a large number of instructions.&#x20;
+
+
+**Lookup Table:** An on-chain account that stores commonly used addresses to enable transactions with a large number of instructions.
+
+A lookup table is implemented in order to provide users the best experience when using the Jet suite of applications. Users will be prompted to set up their lookup table when they create their margin account:
+
+![](../../.gitbook/assets/image.png)
 
 ### Pools Application:
 
 Below, the UI of the fixed rate has elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Pools Terms:**
 
@@ -93,9 +99,9 @@ Below, the UI of the fixed rate has elements of the application marked and label
 
 Below, the UI of the fixed rate has the various elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Fixed Rate Terms:**
 
