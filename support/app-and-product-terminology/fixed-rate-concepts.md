@@ -12,8 +12,8 @@ description: Helpful concepts and general terms to understand Jet's Fixed Rate a
 
 **As well as descriptions and examples of fixed rate order types:**
 
-{% content-ref url="../get-started/devnet-fixed-rate-application-guide/fixed-rate-actions-how-to-borrow-and-lend.md" %}
-[fixed-rate-actions-how-to-borrow-and-lend.md](../get-started/devnet-fixed-rate-application-guide/fixed-rate-actions-how-to-borrow-and-lend.md)
+{% content-ref url="../get-started/submitting-fixed-rate-orders-actions-in-the-ui.md" %}
+[submitting-fixed-rate-orders-actions-in-the-ui.md](../get-started/submitting-fixed-rate-orders-actions-in-the-ui.md)
 {% endcontent-ref %}
 
 #### _General Fixed Rate Terms_
@@ -30,13 +30,13 @@ description: Helpful concepts and general terms to understand Jet's Fixed Rate a
 
 _**Order Types**_
 
-**Offer Loan:** Post a loan offer to the orderbook by specifying an amount to lend and the minimum rate you would lend it out at. See [See offer loan example](../get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-offer-a-loan.md).
+**Offer Loan:** Post a loan offer to the orderbook by specifying an amount to lend and the minimum rate you would lend it out at. See [See offer loan example](../get-started/borrow-and-lend-order-action-descriptions-and-examples/how-to-offer-a-loan.md).
 
-**Lend Now:** Choose a token amount to lend out and it will be lent immediately at the best (highest) available rates on the orderbook (assumes there is sufficient available collateral). [See lend now example.](../get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-lend-now.md)
+**Lend Now:** Choose a token amount to lend out and it will be lent immediately at the best (highest) available rates on the orderbook (assumes there is sufficient available collateral). [See lend now example.](../get-started/borrow-and-lend-order-action-descriptions-and-examples/how-to-lend-now.md)
 
-**Borrow Request:** Post a borrow request to the orderbook by specifying an amount to lend and the minimum rate you would lend it out at. [See borrow request example](../get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-borrow-now.md).
+**Borrow Request:** Post a borrow request to the orderbook by specifying an amount to lend and the minimum rate you would lend it out at. [See borrow request example](../get-started/borrow-and-lend-order-action-descriptions-and-examples/how-to-borrow-now.md).
 
-**Borrow Now:** Choose an amount to borrow and it will be borrowed immediately at the best (lowest) available rates on the orderbook (assumes there is sufficient available collateral) . [See borrow now example.](../get-started/devnet-fixed-rate-application-guide/examples-of-borrow-and-lend-orders/how-to-borrow-now.md)
+**Borrow Now:** Choose an amount to borrow and it will be borrowed immediately at the best (lowest) available rates on the orderbook (assumes there is sufficient available collateral) . [See borrow now example.](../get-started/borrow-and-lend-order-action-descriptions-and-examples/how-to-borrow-now.md)
 
 
 

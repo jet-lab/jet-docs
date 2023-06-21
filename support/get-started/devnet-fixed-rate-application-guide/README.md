@@ -37,6 +37,6 @@ If you find bugs, have UX/UI suggestions, general questions, etc, please visit t
 \
 **Descriptions of the borrow and lend actions you can take in the Fixed Term application:**
 
-{% content-ref url="fixed-rate-actions-how-to-borrow-and-lend.md" %}
-[fixed-rate-actions-how-to-borrow-and-lend.md](fixed-rate-actions-how-to-borrow-and-lend.md)
+{% content-ref url="../submitting-fixed-rate-orders-actions-in-the-ui.md" %}
+[submitting-fixed-rate-orders-actions-in-the-ui.md](../submitting-fixed-rate-orders-actions-in-the-ui.md)
 {% endcontent-ref %}
