@@ -42,6 +42,6 @@ Choose Market by selecting the tenor. This action is available on both "Lend" an
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-03-03 at 7.49.53 AM.png" alt=""><figcaption><p>Fixed term market tenor selection</p></figcaption></figure>
 
-### Auto-Roll Action - future release
+### Autoroll Lends and Borrows for Multiple Terms&#x20;
 
-This service allows you to continue to lend or borrow once your first position has reached maturity. You may choose to have this service on or off.&#x20;
+The optional "autoroll" feature allows lenders to loan out their cash over multiple terms totally hands-off without needing any intervention. Similarly, borrowers may elect to continuously borrow across terms. If a borrower account lacks the required collateral at any point during a term, it will be subject to liquidation as normal.
