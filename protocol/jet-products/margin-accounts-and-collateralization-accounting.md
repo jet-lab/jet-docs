@@ -2,12 +2,12 @@
 
 **See also: Margin Accounting Concepts and Terms:**
 
-{% content-ref url="../../support/app-and-product-terminology/margin-accounting-concepts.md" %}
-[margin-accounting-concepts.md](../../support/app-and-product-terminology/margin-accounting-concepts.md)
+{% content-ref url="../../support/app-and-product-terminology/margin-accounting-concepts-and-terms.md" %}
+[margin-accounting-concepts-and-terms.md](../../support/app-and-product-terminology/margin-accounting-concepts-and-terms.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../support/app-and-product-terminology/pools-variable-lending-concepts.md" %}
-[pools-variable-lending-concepts.md](../../support/app-and-product-terminology/pools-variable-lending-concepts.md)
+{% content-ref url="../../support/app-and-product-terminology/pools-variable-lending-concepts-and-terms.md" %}
+[pools-variable-lending-concepts-and-terms.md](../../support/app-and-product-terminology/pools-variable-lending-concepts-and-terms.md)
 {% endcontent-ref %}
 
 A margin account a ledger within a ledger, keeping track of assets and liabilities that the user has accrued through their interaction with integrated products. It is via the margin account that a user's deposits as construed as collateral against which the user can borrow or take other risk positions. Margin accounts keep the protocol safe by providing a liquidation mechanism to cover debts when necessary.

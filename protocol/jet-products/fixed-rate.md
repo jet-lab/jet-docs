@@ -1,10 +1,33 @@
+---
+description: >-
+  This page describes the mechanisms and features of the Fixed Rate Product and
+  links to other helpful documentation to help understand the Fixed Rate product
+  and how to use it.
+---
+
 # Fixed Rate
 
-**See also: Fixed Rate Concepts and Terms**
+**For other pages related to understanding Fixed Rate application, with examples:**
 
-{% content-ref url="../../support/app-and-product-terminology/fixed-rate-concepts.md" %}
-[fixed-rate-concepts.md](../../support/app-and-product-terminology/fixed-rate-concepts.md)
+Fixed Rate Concepts and Terms:
+
+{% content-ref url="../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md" %}
+[fixed-rate-concepts-and-terms.md](../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md)
 {% endcontent-ref %}
+
+**Fixed Rate Order Types and Examples:**
+
+{% content-ref url="../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/" %}
+[fixed-rate-borrow-and-lend-orders-descriptions-and-examples](../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/)
+{% endcontent-ref %}
+
+**Helpful Guides: Submitting Fixed Rate Orders in the UI**
+
+{% content-ref url="../../support/get-started/submitting-fixed-rate-orders-actions-in-the-ui.md" %}
+[submitting-fixed-rate-orders-actions-in-the-ui.md](../../support/get-started/submitting-fixed-rate-orders-actions-in-the-ui.md)
+{% endcontent-ref %}
+
+###
 
 ### In Search Of Term Structure - The Fix&#x20;
 
