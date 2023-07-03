@@ -2,11 +2,11 @@
 
 **Jet Protocol Terms of Service:**&#x20;
 
-[**https://www.jetprotocol.io/legal/terms-of-service**](https://www.jetprotocol.io/legal/terms-of-service)
+[**https://docs.jetprotocol.io/jet-protocol/faq/terms-of-service**](https://docs.jetprotocol.io/jet-protocol/faq/terms-of-service)
 
 **Jet Protocol Privacy Policy:**
 
-[**https://www.jetprotocol.io/legal/privacy-policy**](https://www.jetprotocol.io/legal/privacy-policy)
+[**https://docs.jetprotocol.io/jet-protocol/faq/privacy-policy**](https://docs.jetprotocol.io/jet-protocol/faq/privacy-policy)
 
 The statements, information, and details contained herein are informational only, and subject to change. Jet Protocol is in development and may need to change dates, details, or the project as a whole based on the protocol, team, legal or regulatory needs, or due to developments of Solana. This is not an exhaustive list.
 
@@ -16,4 +16,4 @@ Risks include liquidation, loss of funds due to stolen private keys, phishing, e
 
 Users should follow common best practice for security and conduct their own due diligence. All code in Jet Protocol is novel and experimental. Please use discretion when depositing funds.
 
-_**Please Note, use of the**_ [_**Jet Protocol App**_](https://app.jetprotocol.io/) _**is subject to acceptance of the**_ [_**Terms of Service**_](https://www.jetprotocol.io/legal/terms-of-service) _**and**_ [_**Privacy Policy**_](https://www.jetprotocol.io/legal/privacy-policy)_**.**_&#x20;
+_**Please Note, use of the**_ [_**Jet Protocol App**_](https://app.jetprotocol.io/) _**is subject to acceptance of the**_ [_**Terms of Service**_](https://docs.jetprotocol.io/jet-protocol/faq/terms-of-service) _**and**_ [_**Privacy Policy**_](https://docs.jetprotocol.io/jet-protocol/faq/privacy-policy)_**.**_&#x20;

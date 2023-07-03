@@ -1,4 +1,4 @@
-# Terms of Service
+# 📄 Terms of Service
 
 _Published June 19, 2022_
 

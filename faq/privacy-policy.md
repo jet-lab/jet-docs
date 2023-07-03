@@ -1,4 +1,4 @@
-# Privacy Policy
+# 📄 Privacy Policy
 
 _Published October 7, 2021_
 

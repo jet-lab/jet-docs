@@ -48,8 +48,8 @@
 * [🤝 Getting Support](faq/getting-support.md)
 * [🔗 Press Kit](faq/design-assets.md)
 * [🚀 Get In Touch](faq/get-in-touch.md)
-* [Terms of Service](faq/terms-of-service.md)
-* [Privacy Policy](faq/privacy-policy.md)
+* [📄 Terms of Service](faq/terms-of-service.md)
+* [📄 Privacy Policy](faq/privacy-policy.md)
 
 ## JET V1 (DEPRECATED) <a href="#v1" id="v1"></a>
 
