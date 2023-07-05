@@ -2,7 +2,7 @@
 description: Helpful concepts and general terms to understand Jet's Pools application.
 ---
 
-# Pools / Variable Lending Concepts
+# Pools/Variable Lending Concepts and Terms
 
 **See also: More information on how interest rates are calculated in the pooled lending model:**
 
@@ -31,9 +31,5 @@ description: Helpful concepts and general terms to understand Jet's Pools applic
 **Utilization ratio:** The fraction of a reserve’s assets that have been borrowed. For example, if the USDC reserve is worth $100,000, and the amount owed to the reserve by borrowers is $65,000, then the utilization ratio is 65%.There would be $35,000 available for further borrowing.
 
 **Liquidity:** The efficiency or ease with which an asset can be converted into stablecoins without affecting the asset’s market price.
-
-**Liquidation premium:** Additional collateral is delivered to liquidators who repay the debt of accounts that have fallen below the minimum collateralisation ratio. The dollar value of this additional collateral is equal to the Liquidation Premium times the dollar value of the repaid debt. The additional collateral is paid from the account of the user being liquidated.
-
-**Liquidation:** The process of selling some of a borrower’s collateral to a third party, called a liquidator. The liquidator pays for the collateral using the token in which the debt is denominated, thereby (partially) repaying the borrower’s debt. The sale price is determined by an oracle, and is intended to be a fair market price. An incentive fee of 3% is paid to the liquidator. [For more details see the Liquidation page](../../protocol/liquidation.md).
 
 **Default:** The failure to repay a debt, including interest or principal, on a loan or security. A default can occur when a borrower is unable to make timely payments, misses payments, or avoids or stops making payments.

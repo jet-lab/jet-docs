@@ -45,7 +45,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
 
 <figure><img src="../../.gitbook/assets/Create New account + arrows.png" alt=""><figcaption><p>Create initial margin account</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Create new account 1..png" alt="" width="261"><figcaption><p>Acknowledgment of creating a margin account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Create new account 1. (1).png" alt="" width="261"><figcaption><p>Acknowledgment of creating a margin account</p></figcaption></figure>
 
 **Optional: Create more margin accounts**\
 \

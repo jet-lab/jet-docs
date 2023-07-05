@@ -2,7 +2,7 @@
 description: Helpful concepts and general terms to understand Jet's Margin application.
 ---
 
-# Margin Accounting Concepts
+# Margin Accounting Concepts and Terms
 
 #### See also: Product documentation page describing Jet's margin account design:
 
@@ -46,4 +46,4 @@ description: Helpful concepts and general terms to understand Jet's Margin appli
 
 **Risk Level:** The ratio of liabilities and required collateral to the (weight-adjusted) collateral in your account.
 
-**Liquidation:** The process of selling some of a borrower’s collateral to a third party, called a liquidator. The liquidator pays for the collateral using the token in which the debt is denominated, thereby (partially) repaying the borrower’s debt. The sale price is determined by an oracle, and is intended to be a fair market price. If the risk level of a margin account goes above 1.0, it will be available to be liquidated and a 3% fee will charged. [See more details on the liquidation page.](https://docs.jetprotocol.io/jet-protocol/protocol/liquidation)
+**Liquidation:** The process of selling some of a borrower’s collateral to repay outstanding liabilities on their account. [See more details on the liquidation page.](https://docs.jetprotocol.io/jet-protocol/protocol/liquidation)
