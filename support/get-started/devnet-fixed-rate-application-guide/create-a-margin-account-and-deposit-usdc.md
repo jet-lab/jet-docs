@@ -4,9 +4,9 @@
 
 Now it’s time to create a margin account! Click the button to do so, and confirm the account creation in the modal that pops up. Then, approve the transactions in your wallet.
 
-<figure><img src="https://lh5.googleusercontent.com/Y5IruQQz_Rq-lI3RZUzhNbM_i2clyXBfR88BDEpFS9PmWyxNKNpXvGEX8XzsI1BCuzYiTfFoHbfZGXwQRlJllQnfi6Dr7A5dL--EFcbpI6puW03dy-mSI0mIC_dHFagV2qGHPYAqG-8DDIIomUL2qhI" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Create New account + arrows (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh3.googleusercontent.com/EeCP8-OwcTrvI8f957mqQlx_Zm5THlovwik8rApz8PaQ4_DJOhAoNeJ_vD_cwWuQWfWVxN9T74F_GG4fAk02MgXGL2uTNJXTJE0ez1SJg7pCgdxSzuh98mrdkC52vRbO4E39F2aAFJYjRIEopddi588" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Create new account 1..png" alt=""><figcaption></figcaption></figure>
 
 **The "Deposit" Action**
 
@@ -14,7 +14,7 @@ Now that we have a margin account, let’s deposit our airdropped 100,000 USDC t
 
 Click the “deposit” button on the main application view.
 
-<figure><img src="https://lh6.googleusercontent.com/JMtufuNTlVPTtquwL2TcdchWjarIt5DxeR_p0pGfkgeLdNokknt92qaFi_iVCV8bQnR28KNtlydSb9svg-I0n2ukbj6wlSUb2xZHSoaj89xwbF-RsQn-rCkqeBZwQUNoH9y9rlg-M24wdXx6W3Trfw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Deposits.png" alt=""><figcaption></figcaption></figure>
 
 **Select USDC to Deposit**
 
