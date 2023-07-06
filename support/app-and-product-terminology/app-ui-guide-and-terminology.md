@@ -5,7 +5,7 @@ description: >-
   the app.
 ---
 
-# App UI Terms
+# App UI Guide and Terminology
 
 ### General Terms Shared Between Applications:
 
@@ -51,7 +51,7 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 A lookup table is implemented in order to provide users the best experience when using the Jet suite of applications. Users will be prompted to set up their lookup table when they create their margin account:
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (10).png>)
 
 ### Pools Application:
 
@@ -101,7 +101,7 @@ Below, the UI of the fixed rate has the various elements of the application mark
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Fixed Rate Terms:**
 

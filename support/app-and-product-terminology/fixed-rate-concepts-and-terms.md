@@ -12,8 +12,8 @@ description: Helpful concepts and general terms to understand Jet's Fixed Rate a
 
 **As well as descriptions and examples of fixed rate order types:**
 
-{% content-ref url="../get-started/submitting-fixed-rate-orders-actions-in-the-ui.md" %}
-[submitting-fixed-rate-orders-actions-in-the-ui.md](../get-started/submitting-fixed-rate-orders-actions-in-the-ui.md)
+{% content-ref url="../get-started/fixed-rate-order-types-maker-vs-taker-orders.md" %}
+[fixed-rate-order-types-maker-vs-taker-orders.md](../get-started/fixed-rate-order-types-maker-vs-taker-orders.md)
 {% endcontent-ref %}
 
 #### _General Fixed Rate Terms_

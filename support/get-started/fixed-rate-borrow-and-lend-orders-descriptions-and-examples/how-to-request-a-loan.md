@@ -8,7 +8,7 @@ description: How to interact with the borrowing side of Jet Fixed Term
 
 To begin, enter the fixed term application on the lending side by clicking "Fixed Borrow" on the menu bar on top of the application. Then select "Request Loan" in the order panel:
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **Examine the Current State of the Orderbook**
 
@@ -20,11 +20,11 @@ The line segments represent how much USDC liquidity is available at each rate. T
 
 By hovering over the rightmost end of the chart, you will see on the x-axis that value of cumulative USDC is around 19,200 USDC, and a rate of 1.86%.  This means that if someone was to come lend 19,200 USDC right now, they would fill all of the borrow requests on the book at a total average interest rate of 1.86%.
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 If you take a closer look at the bottom of the orderbook on the leftmost side of the chart, you will see the most expensive borrow requests on the market. From this image here you can see that the lowest rates on the chart are borrow requests with an average rate of 4.8%:
 
-<figure><img src="../../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Request Loan Order Setup**
 
@@ -32,7 +32,7 @@ In this use case, imagine you want to request a loan that will be at a cheaper r
 
 Enter these parameters into the order panel to the left of the chart:
 
-<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Note the information relayed in the green outlined box, which includes:
 
@@ -47,11 +47,11 @@ Note the information relayed in the green outlined box, which includes:
 
 Once satisfied with the order setup, you can go on to approve the transaction. You will see the loan offer displayed in the "Borrow Requests" table just below the chart. This amount includes interest and fees. Note that you can also **cancel** the order here, and that if part of the order already matched with an existing lan request on the book, the matched part would be found in the "Open Deposits" table:
 
-<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 You can also see the effect that the borrow request has on the chart. If you hover over the rightmost part of the chart (the bottom of the orderbook), it is apparent that 5,000 USDC has been added to the books, and the average rate there (looking from the top down / left to the right) has been driven down to 1.79%:
 
-<figure><img src="../../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 That's a loan request order! Try out placing orders at different rates and amounts, and see what happens when you match part or all of your order with a loan offer that already exists on the books!&#x20;
 

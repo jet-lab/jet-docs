@@ -23,8 +23,8 @@ Fixed Rate Concepts and Terms:
 
 **Helpful Guides: Submitting Fixed Rate Orders in the UI**
 
-{% content-ref url="../../support/get-started/submitting-fixed-rate-orders-actions-in-the-ui.md" %}
-[submitting-fixed-rate-orders-actions-in-the-ui.md](../../support/get-started/submitting-fixed-rate-orders-actions-in-the-ui.md)
+{% content-ref url="../../support/get-started/fixed-rate-order-types-maker-vs-taker-orders.md" %}
+[fixed-rate-order-types-maker-vs-taker-orders.md](../../support/get-started/fixed-rate-order-types-maker-vs-taker-orders.md)
 {% endcontent-ref %}
 
 ###
