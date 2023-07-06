@@ -1,33 +1,35 @@
 ---
 description: >-
-  This page describes the mechanisms and features of the Fixed Rate Product and
-  links to other helpful documentation to help understand the Fixed Rate product
-  and how to use it.
+  This page contains an overall description of the fixed rate product and its
+  features. It also includes links to other helpful pages to understand Fixed
+  Rate conceptually and understand how to use it i
 ---
 
-# Fixed Rate
+# Fixed Rate Borrowing and Lending
 
-**For other pages related to understanding Fixed Rate application, with examples:**
-
-Fixed Rate Concepts and Terms:
-
-{% content-ref url="../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md" %}
-[fixed-rate-concepts-and-terms.md](../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md)
-{% endcontent-ref %}
-
-**Fixed Rate Order Types and Examples:**
-
-{% content-ref url="../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/" %}
-[fixed-rate-borrow-and-lend-orders-descriptions-and-examples](../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/)
-{% endcontent-ref %}
-
-**Helpful Guides: Submitting Fixed Rate Orders in the UI**
+**Helpful guides to understand fixed rate orders and how to use the UI:**
 
 {% content-ref url="../../support/get-started/fixed-rate-order-types-maker-vs-taker-orders.md" %}
 [fixed-rate-order-types-maker-vs-taker-orders.md](../../support/get-started/fixed-rate-order-types-maker-vs-taker-orders.md)
 {% endcontent-ref %}
 
-###
+{% content-ref url="../../support/get-started/selecting-a-fixed-market-token-and-tenor.md" %}
+[selecting-a-fixed-market-token-and-tenor.md](../../support/get-started/selecting-a-fixed-market-token-and-tenor.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../support/get-started/configuring-and-using-autoroll.md" %}
+[configuring-and-using-autoroll.md](../../support/get-started/configuring-and-using-autoroll.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/" %}
+[fixed-rate-borrow-and-lend-orders-descriptions-and-examples](../../support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/)
+{% endcontent-ref %}
+
+**Fixed Rate Concepts and Terms:**
+
+{% content-ref url="../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md" %}
+[fixed-rate-concepts-and-terms.md](../../support/app-and-product-terminology/fixed-rate-concepts-and-terms.md)
+{% endcontent-ref %}
 
 ### In Search Of Term Structure - The Fix&#x20;
 
@@ -76,13 +78,9 @@ To support long-term lenders and borrowers the fixed rate program provides a fac
 * An **origination fee** of 50 basis points annualized is added to the amount borrowed.
 * In the event of borrower liquidation, the liquidator will attempt to pay back the borrowed funds with funds of the same token type in the borrower's margin account. If the assets are available to pay down the debt at this time, the liquidator will NOT charge any fees to the user for this convenience. [See the Liquidation page for more details](../liquidation.md).
 
-
-
 **Autoroll**
 
 The optional "autoroll" feature allows lenders to loan out their cash over multiple terms totally hands-off without needing any intervention. Similarly, borrowers may elect to continuously borrow across terms. If a borrower account lacks the required collateral at any point during a term, it will be subject to liquidation as normal.
-
-
 
 **Term Deposits Contribution Towards Available Collateral:**
 

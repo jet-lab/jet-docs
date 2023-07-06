@@ -6,8 +6,8 @@ description: Helpful concepts and general terms to understand Jet's Fixed Rate a
 
 **See also: More information on the mechanics of the fixed rate product and how it works:**
 
-{% content-ref url="../../protocol/jet-products/fixed-rate.md" %}
-[fixed-rate.md](../../protocol/jet-products/fixed-rate.md)
+{% content-ref url="../../protocol/jet-products/fixed-rate-borrowing-and-lending.md" %}
+[fixed-rate-borrowing-and-lending.md](../../protocol/jet-products/fixed-rate-borrowing-and-lending.md)
 {% endcontent-ref %}
 
 **As well as descriptions and examples of fixed rate order types:**
@@ -24,7 +24,7 @@ description: Helpful concepts and general terms to understand Jet's Fixed Rate a
 
 **Market:** In the context of the fixed rate application, the market is the combined token being lent along with the tenor. For example, there is a 1 day USDC market and a 30 day USDC market.
 
-**Autoroll:** A feature of the fixed rate application that when enabled allows lenders to lend their capital continuously and borrowers to borrow continuously. [For more details, see the fixed rate page.](../../protocol/jet-products/fixed-rate.md)
+**Autoroll:** A feature of the fixed rate application that when enabled allows lenders to lend their capital continuously and borrowers to borrow continuously. [For more details, see the fixed rate page.](../../protocol/jet-products/fixed-rate-borrowing-and-lending.md)
 
 
 

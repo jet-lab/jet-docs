@@ -29,8 +29,8 @@ In the following subsections, there are more details regarding margin accounting
 [margin-accounts-and-collateralization-accounting.md](jet-products/margin-accounts-and-collateralization-accounting.md)
 {% endcontent-ref %}
 
-{% content-ref url="jet-products/fixed-rate.md" %}
-[fixed-rate.md](jet-products/fixed-rate.md)
+{% content-ref url="jet-products/fixed-rate-borrowing-and-lending.md" %}
+[fixed-rate-borrowing-and-lending.md](jet-products/fixed-rate-borrowing-and-lending.md)
 {% endcontent-ref %}
 
 This technical documentation will be evolving with the code over the coming months. If you have specific questions left unanswered, post on the forum here: [https://forum.jetprotocol.io/c/support/13](https://forum.jetprotocol.io/c/support/13)&#x20;
