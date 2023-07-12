@@ -24,7 +24,7 @@ By hovering over the rightmost end of the chart, you will see on the x-axis that
 
 If you take a closer look at the bottom of the orderbook on the leftmost side of the chart, you will see the most expensive borrow requests on the market. From this image here you can see that the lowest rates on the chart are borrow requests with an average rate of 4.8%:
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Request Loan Order Setup**
 

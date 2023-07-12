@@ -15,7 +15,7 @@ Below, the various terms in the **account snapshot** are defined. These definiti
 
 **Note** that values shown throughout the application UI are approximated and rounded from the actual values, which can be viewed in a block explorer and typically have many decimals.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 _**Account Snapshot Terms:**_
 
@@ -51,7 +51,7 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 A lookup table is implemented in order to provide users the best experience when using the Jet suite of applications. Users will be prompted to set up their lookup table when they create their margin account:
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ### Pools Application:
 
