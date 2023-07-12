@@ -51,7 +51,7 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 A lookup table is implemented in order to provide users the best experience when using the Jet suite of applications. Users will be prompted to set up their lookup table when they create their margin account:
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ### Pools Application:
 

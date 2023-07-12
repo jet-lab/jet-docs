@@ -4,4 +4,4 @@ Choose a market by selecting the token to borrow or lend in addition to the teno
 
 This action is available on both "Lend" and "Borrow" tabs.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
