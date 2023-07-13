@@ -51,13 +51,13 @@ Additionally, included are terms used in the hovering modal when first creating 
 
 A lookup table is implemented in order to provide users the best experience when using the Jet suite of applications. Users will be prompted to set up their lookup table when they create their margin account:
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 ### Pools Application:
 
 Below, the UI of the fixed rate has elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Pools Terms:**
 
@@ -99,7 +99,7 @@ Below, the UI of the fixed rate has elements of the application marked and label
 
 Below, the UI of the fixed rate has the various elements of the application marked and labeled, followed by definitions for the terms in those areas of the app.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 

@@ -28,7 +28,7 @@
   * [Fixed Rate Borrow and Lend Orders: Descriptions and Examples](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/README.md)
     * [How To: Offer a Loan](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/how-to-offer-a-loan.md)
     * [How To: Lend Now](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/how-to-lend-now.md)
-    * [How To: Request a Loan](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/how-to-request-a-loan.md)
+    * [How To: Request Borrow](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/how-to-request-borrow.md)
     * [How To: Borrow Now](support/get-started/fixed-rate-borrow-and-lend-orders-descriptions-and-examples/how-to-borrow-now.md)
   * [Configuring and Using Autoroll](support/get-started/configuring-and-using-autoroll.md)
   * [Devnet Fixed Rate Application Guide](support/get-started/devnet-fixed-rate-application-guide/README.md)

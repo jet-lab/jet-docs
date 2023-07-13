@@ -24,4 +24,4 @@ You may return to edit these settings at any time by selecting the market in que
 
 After a fill has occurred and a lend or borrow is active, autoroll may also be toggled for that debt by toggling it off and on in the debt table below the order panel and order book chart:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
