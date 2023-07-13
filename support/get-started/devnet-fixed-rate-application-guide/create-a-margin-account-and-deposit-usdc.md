@@ -4,7 +4,7 @@
 
 Now it’s time to create a margin account! Click the button to do so, and confirm the account creation in the modal that pops up. Then, approve the transactions in your wallet.
 
-<figure><img src="../../../.gitbook/assets/Create New account + arrows (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Crear account redline.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Create new account 1..png" alt=""><figcaption></figcaption></figure>
 

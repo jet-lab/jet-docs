@@ -33,7 +33,7 @@ description: A step-by-step guide for first-timers accessing the app on mainnet 
     \
     Clicking the "Connect Wallet" or "Connect" button will allow you to select the type of wallet you're using. As mentioned in previous sections it is recommended you setup your wallet before proceeding further.
 
-<figure><img src="../../.gitbook/assets/Connect Wallet + Arrows.png" alt=""><figcaption><p>"Connect Wallet" buttons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the you selected your wallet of choice, and approved the wallet connection. The application will prompt the risk modal. Understand and accept risks before entering Jet Protocol Mainnet.
 
@@ -43,7 +43,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
    \
    Now it’s time to create a margin account! Click the button to do so, and confirm the account creation in the modal that pops up. Then, approve the transactions in your wallet.
 
-<figure><img src="../../.gitbook/assets/Create New account + arrows.png" alt=""><figcaption><p>Create initial margin account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Copia de Untitled (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Create new account 1. (1) (1).png" alt="" width="261"><figcaption><p>Acknowledgment of creating a margin account</p></figcaption></figure>
 
@@ -51,7 +51,7 @@ Once the you selected your wallet of choice, and approved the wallet connection.
 \
 If you find a need to keep track of different portfolio, do create a different Margin Account. Each Margin Account keeps its Risk Level. [Read more information about the Risk Level of a margin account](https://docs.jetprotocol.io/jet-protocol/protocol/risk-indicator).
 
-<figure><img src="../../.gitbook/assets/create new margin account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Account new.png" alt=""><figcaption></figcaption></figure>
 
 **Optional: Switching between margin accounts**
 
@@ -67,7 +67,5 @@ Now that you have a margin account, continue to explore how to lend and borrow w
 <figure><img src="../../.gitbook/assets/Captura de pantalla 2023-07-03 a la(s) 12.27.30.png" alt="" width="347"><figcaption><p>Upgrade Account</p></figcaption></figure>
 
 To continue, you must upgrade the state of your margin account. You will be prompted to confirm the transaction in your wallet. Please note that if you are using a hardware wallet, it may require you to sign multiple times.
-
-
 
 Now that you have a margin account created, you can deposit some collateral and use the Jet products with that collateral! [Check out the products page](../../protocol/jet-products/) to learn more about Jet Fixed Rate application, variable pooled lending, and leverage swaps.

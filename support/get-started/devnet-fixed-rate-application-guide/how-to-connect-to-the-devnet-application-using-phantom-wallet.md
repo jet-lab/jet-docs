@@ -4,9 +4,9 @@
 
 To begin, navigate to [https://devnet.jetprotocol.io/](https://devnet.jetprotocol.io/) where you will be greeted by the following page. Click the gear icon in the top right corner, highlighted in the image below.
 
-<figure><img src="../../../.gitbook/assets/Config Wheel.png" alt=""><figcaption><p>"Settings icon"</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Config wheel.png" alt=""><figcaption></figcaption></figure>
 
-Choose “Devnet” for the “Network” setting and click the “Save Preferences” button.
+Choose “**Devnet**” for the “**Network**” setting and click the “**Save Preferences**” button.
 
 <figure><img src="https://lh4.googleusercontent.com/HW_c2Ta6XAsrNRG6ThT-l9m6X3TVxytmDYrcIGU6xyMZL_rwZw2FZ_lMUOB98-PMesFehvPV5Fm2kWVuc5eb9E0Gvyld7sMEadhG3UxdRWKQ5bKrNFYlQh9bAci_43jz_NhlKEJPKi7b37s2rGJF0vI" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Next, you need to change the network in your wallet to Devnet. Assuming that you
 
 **Create a new wallet**
 
-Create a fresh wallet. In Phantom, navigate again to the wallet settings in the upper left, then click the account shown, followed by the “Add/Connect Wallet” button, and finally “Create a new account”
+Create a fresh wallet. In Phantom, navigate again to the wallet settings in the upper left, then click the account shown, followed by the “**Add/Connect Wallet**” button, and finally “**Create a new account**”
 
 ![](https://lh6.googleusercontent.com/wvqcA5uXWVWkA9-z--dAHbASldgYph4vdqGAQn933FV5RA4uaQrxPxbiPZ1gNX0E2bjzj3fk9c5hVPSQvMEzaenDRUyF-jbXf\_zZeqxyDXR1ZJuXESKQjBS-Bi498L2FsCh4sHKlXccbIUuJi6MdHlM)![](https://lh6.googleusercontent.com/pkk2gwlMJHPmBn8a4nSyQuOO7VwH2-LHOFLrvH5q7r4XCPcfFpHy5YHnELCRfns5i9uXTpuEOUl9XK4G-uU\_9EUsLYS9AZvV\_0TtLZCgc96vDw4WWQFvOk\_tyb36grxs7RLXLTpLlX-CblAN7TWO2aU)![](https://lh6.googleusercontent.com/rLmCG7iwb42\_-i0OQiPJIw13KEbZntgO0i8-yUdPhh8-fN-GPSma1sutP714kSHPrkRO2H5fCdDQxpwR6uH31QOtMM\_oxPzHdWpQRFj23dur8c6kNymp5NXAzv0m\_T\_rYOhATrnE6\_taV9M-ISsozf0)![](https://lh4.googleusercontent.com/Tc3zgLMQHYWnDPpEw4PTQk2LHJjqmNXx2T5uQzX0JIxo0PJ0GlwnZaLfsdUHbtExdh6CEAeGQWl8wM-lwuGwpmlNweGLn4\_6JpIlLZCULfgDgAEX5mS41oz92rGQkTqRBa7nVtV7gexd3czH4u\_vb-Y)
 
@@ -28,8 +28,8 @@ Create a fresh wallet. In Phantom, navigate again to the wallet settings in the 
 
 **Connect to the application with your new wallet**
 
-Back in the Jet application, click the “Connect” button in the upper right corner.
+Back in the Jet application, click the “**Connect”** button in the upper right corner.
 
-<figure><img src="../../../.gitbook/assets/Connect Wallet + Arrows (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Connect Wallet Red line.png" alt=""><figcaption></figcaption></figure>
 
 Now that you've connected to the app with your wallet on devnet, the next step is to[ airdrop SOL and USDC to test the application with](how-to-airdrop-sol-and-usdc-to-test-the-application.md).
