@@ -10,7 +10,7 @@ The optional "autoroll" feature allows lenders to loan out their cash over multi
 
 After selecting a market on the borrowing or lending side of the market, click the toggle in the order panel:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 If it is your first time toggling autoroll for that market, a popup will prompt you to enter the **minimum lend rate** and **maximum borrow rate** that you are willing to autoroll your filled borrows and lends at.
 
