@@ -45,7 +45,7 @@ Note the information relayed in the green outlined box, which includes:
 
 The "**autoroll**" option allows a borrower to renew the loan indefinitely as long as their account remains sufficiently collateralized.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 **After Placing the Order**
 

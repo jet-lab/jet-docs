@@ -38,7 +38,7 @@ Type in 10,500 in the "**Lend Now"** order panel. You will see some correspondin
 
 The "**autoroll**" option allows a borrower to renew the loan indefinitely as long as their account remains sufficiently collateralized.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

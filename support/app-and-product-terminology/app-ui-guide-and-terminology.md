@@ -41,7 +41,7 @@ _**Margin Account Creation Terms:**_
 
 Additionally, included are terms used in the hovering modal when first creating a margin account:
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 **Rent Fee:** When you open your account on Jet, rent is charged by the Solana blockchain for the storage of that data. The rent fee can be fully refunded in the future when you close all your account obligations on Jet. This is true for all protocols which allocate space per user on-chain.
 

@@ -4,7 +4,7 @@ description: >-
   application
 ---
 
-# Devnet Fixed Rate Application Guide
+# Devnet Test Funds Guide
 
 The following subpages contain guides to understanding and using the fixed term application in its current form on Devnet - please be aware real funds with real value cannot be used on Devnet.
 
